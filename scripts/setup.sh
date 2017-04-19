@@ -20,7 +20,7 @@ SCRIPTS_PATH="$PRJ_ROOT_PATH"/scripts
 # Install dependencies if necessary & create directory
 #
 echo "Checking dependencies..."
-apt-get install -y --force-yes build-essential python
+apt-get install -y --force-yes build-essential python python-dev gcc libncurses5-dev libxml2-dev libxslt1-dev
 echo "Checked dependencies."
 
 # Create a new virtual environment with python2.7 as interpreter
@@ -33,7 +33,10 @@ fi
 # Install requirements
 if [ ! -f "$PRJ_ROOT_PATH/venv/updated" -o $SCRIPTS_PATH/requirements.txt -nt $PRJ_ROOT_PATH/venv/updated ]; then
 	echo "Installing requirements..."
-	pip install -r "$SCRIPTS_PATH"/requirements.txt -E $PRJ_ROOT_PATH/venv
+	source $PRJ_ROOT_PATH/venv/bin/activate
+	cd $PRJ_ROOT_PATH
+	pip install -r "$SCRIPTS_PATH"/requirements.txt
 	touch $PRJ_ROOT_PATH/venv/updated
+	deactivate
 	echo "Installed requirements."
 fi
