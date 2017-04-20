@@ -441,9 +441,10 @@ class Extractor(object):
         """
         logging.debug("%s\t%s", self.id, self.title)
         url = get_url(self.id)
-        header = '<doc id="%s" url="%s" title="%s">\n' % (self.id, url, self.title)
+        # header = '<doc id="%s" url="%s" title="%s">\n' % (self.id, url, self.title)
+        header = '\n'
         # Separate header from text with a newline.
-        header += self.title + '\n\n'
+        # header += self.title + '\n'
         header = header.encode('utf-8')
         self.magicWords['pagename'] = self.title
         self.magicWords['fullpagename'] = self.title
@@ -453,7 +454,8 @@ class Extractor(object):
         self.magicWords['currenthour'] = time.strftime('%H')
         self.magicWords['currenttime'] = time.strftime('%H:%M:%S')
         text = self.clean()
-        footer = "\n</doc>\n"
+        # footer = "\n</doc>\n"
+        footer = "\n"
         out.write(header)
         for line in compact(text):
             out.write(line.encode('utf-8'))
