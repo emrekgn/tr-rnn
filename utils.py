@@ -16,7 +16,7 @@ SENTENCE_START_TOKEN = "SENTENCE_START"
 SENTENCE_END_TOKEN = "SENTENCE_END"
 UNKNOWN_TOKEN = "UNKNOWN_TOKEN"
 
-def load_data(filename="data/reddit-comments-2015-08.csv", vocabulary_size=2000, min_sent_characters=0):
+def load_data(filename="data/wiki/wiki.csv", vocabulary_size=2000, min_sent_characters=0):
 
     word_to_index = []
     index_to_word = []
