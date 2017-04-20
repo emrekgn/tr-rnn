@@ -27,7 +27,7 @@ def load_data(filename="data/wiki/wiki.csv", vocabulary_size=2000, min_sent_char
         reader = csv.reader(f, skipinitialspace=True)
         reader.next()
         # Split full comments into sentences
-        sentences = itertools.chain(*[nltk.sent_tokenize(x[0].decode("utf-8").lower()) for x in reader])
+        sentences = itertools.chain(*[nltk.sent_tokenize(x[0].decode("utf-8").lower(), language='turkish') for x in reader if x])
         # Filter sentences
         sentences = [s for s in sentences if len(s) >= min_sent_characters]
         sentences = [s for s in sentences if "http" not in s]
@@ -36,7 +36,7 @@ def load_data(filename="data/wiki/wiki.csv", vocabulary_size=2000, min_sent_char
     print("Parsed %d sentences." % (len(sentences)))
 
     # Tokenize the sentences into words
-    tokenized_sentences = [nltk.word_tokenize(sent) for sent in sentences]
+    tokenized_sentences = [nltk.word_tokenize(sent, language='turkish') for sent in sentences]
 
     # Count the word frequencies
     word_freq = nltk.FreqDist(itertools.chain(*tokenized_sentences))
