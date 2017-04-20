@@ -10,15 +10,15 @@ PRJ_ROOT_PATH=$(dirname $(pwd -P))
 popd > /dev/null
 echo "Project path: $PRJ_ROOT_PATH"
 
+OUTPUT_PATH=$PRJ_ROOT_PATH/output
+
 echo "Setting up environment..."
-$PRJ_ROOT_PATH/scripts/setup.sh
+#$PRJ_ROOT_PATH/scripts/setup.sh TODO
 echo "Environment setup."
+mkdir -p $OUTPUT_PATH
 
-source $PRJ_ROOT_PATH/venv/bin/activate
 cd $PRJ_ROOT_PATH
-
-# Set environment variables
 export PYTHONPATH=.
-
+export MODEL_OUTPUT_FILE=$OUTPUT_PATH/wiki-output.data
 
 exec python train.py $@

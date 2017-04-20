@@ -33,10 +33,9 @@ fi
 # Install requirements
 if [ ! -f "$PRJ_ROOT_PATH/venv/updated" -o $SCRIPTS_PATH/requirements.txt -nt $PRJ_ROOT_PATH/venv/updated ]; then
 	echo "Installing requirements..."
-	source $PRJ_ROOT_PATH/venv/bin/activate
+	#source $PRJ_ROOT_PATH/venv/bin/activate TODO
 	cd $PRJ_ROOT_PATH
 	pip install -r "$SCRIPTS_PATH"/requirements.txt
 	touch $PRJ_ROOT_PATH/venv/updated
-	deactivate
 	echo "Installed requirements."
 fi
