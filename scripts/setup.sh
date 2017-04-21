@@ -13,14 +13,18 @@ echo "Project path: $PRJ_ROOT_PATH"
 #
 # Common variables
 #
-DATA_PATH="$PRJ_ROOT_PATH"/data/wiki
 SCRIPTS_PATH="$PRJ_ROOT_PATH"/scripts
+PRJ_OWNER=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $3 }')
+PRJ_GRP=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $4 }')
+OUTPUT_PATH=$PRJ_ROOT_PATH/output
+mkdir -p $OUTPUT_PATH
+OWNER_HOME_PATH=$(getent passwd "$PRJ_OWNER" | cut -d: -f6)
 
 #
 # Install dependencies if necessary & create directory
 #
 echo "Checking dependencies..."
-apt-get install -y --force-yes build-essential python python-dev gcc libncurses5-dev libxml2-dev libxslt1-dev
+apt-get update && apt-get install -y --force-yes build-essential python python-dev gcc libncurses5-dev libxml2-dev libxslt1-dev
 echo "Checked dependencies."
 
 # Create a new virtual environment with python2.7 as interpreter
@@ -33,9 +37,18 @@ fi
 # Install requirements
 if [ ! -f "$PRJ_ROOT_PATH/venv/updated" -o $SCRIPTS_PATH/requirements.txt -nt $PRJ_ROOT_PATH/venv/updated ]; then
 	echo "Installing requirements..."
-	#source $PRJ_ROOT_PATH/venv/bin/activate TODO
+	#source $PRJ_ROOT_PATH/venv/bin/activate FIXME!
 	cd $PRJ_ROOT_PATH
 	pip install -r "$SCRIPTS_PATH"/requirements.txt
 	touch $PRJ_ROOT_PATH/venv/updated
 	echo "Installed requirements."
 fi
+
+# Add necessary NLTK tokenizers if they are missing
+if [ ! -f "$OWNER_HOME_PATH"/nltk_data/tokenizers/punkt/turkish.pickle ]; then
+	cp -rf $SCRIPTS_PATH/nltk_data/ $OWNER_HOME_PATH
+	chown -R $PRJ_OWNER:$PRJ_GRP $OWNER_HOME_PATH/nltk_data
+fi
+
+# Ensure that every file has the same owner
+chown -R $PRJ_OWNER:$PRJ_GRP $PRJ_ROOT_PATH

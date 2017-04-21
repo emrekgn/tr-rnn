@@ -9,13 +9,13 @@ pushd $(dirname $0) > /dev/null
 PRJ_ROOT_PATH=$(dirname $(pwd -P))
 popd > /dev/null
 echo "Project path: $PRJ_ROOT_PATH"
-PRJ_OWNER=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $3":"$4 }')
 
 #
 # Common variables
 #
 DATA_PATH="$PRJ_ROOT_PATH"/data/wiki
 SCRIPTS_PATH="$PRJ_ROOT_PATH"/scripts
+PRJ_OWNER=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $3":"$4 }')
 
 #
 # Install dependencies if necessary & create directory
@@ -33,7 +33,7 @@ echo "Extracting plain text..."
 bzcat "$DATA_PATH"/*.bz2 | "$SCRIPTS_PATH"/WikiExtractor.py -cb 250K -o "$DATA_PATH"/extracted -
 find "$DATA_PATH"/extracted -name '*bz2' -prune -exec bunzip2 -c {} \; > "$DATA_PATH"/wiki.csv
 rm -rf "$DATA_PATH"/extracted
-chown -R $PRJ_OWNER $DATA_PATH
+chown -R $PRJ_OWNER $PRJ_ROOT_PATH
 echo "Extracted plain text."
 
 
