@@ -2211,6 +2211,9 @@ def compact(text):
         # Drop residuals of lists
         elif line[0] in '{|' or line[-1] == '}':
             continue
+        # Drop residuals of tables
+        elif 'align' in line or 'colspan' in line or 'valign' in line:
+            continue
         # Drop irrelevant lines
         elif (line[0] == '(' and line[-1] == ')') or line.strip('.-') == '':
             continue
