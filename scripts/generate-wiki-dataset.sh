@@ -21,7 +21,7 @@ PRJ_OWNER=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $3":"$4 }')
 # Install dependencies if necessary & create directory
 #
 echo "Checking dependencies..."
-apt-get install -y --force-yes wget bzip2 
+apt-get update && apt-get install -y --force-yes wget bzip2
 echo "Checked dependencies."
 mkdir -p $DATA_PATH
 
@@ -33,8 +33,7 @@ echo "Extracting plain text..."
 bzcat "$DATA_PATH"/*.bz2 | "$SCRIPTS_PATH"/WikiExtractor.py -cb 250K -o "$DATA_PATH"/extracted -
 find "$DATA_PATH"/extracted -name '*bz2' -prune -exec bunzip2 -c {} \; > "$DATA_PATH"/wiki.csv
 rm -rf "$DATA_PATH"/extracted
-chown -R $PRJ_OWNER $PRJ_ROOT_PATH
+chown -R "$PRJ_OWNER" "$PRJ_ROOT_PATH"
 echo "Extracted plain text."
-
 
 echo "Done. Generated Turkish Wikipedia dataset."
