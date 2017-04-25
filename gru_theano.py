@@ -5,6 +5,7 @@ from theano.gradient import grad_clip
 import time
 import operator
 
+
 class GRUTheano:
     
     def __init__(self, word_dim, hidden_dim=128, bptt_truncate=-1):
@@ -124,8 +125,7 @@ class GRUTheano:
                      (self.mb, mb),
                      (self.mc, mc)
                     ])
-        
-        
+
     def calculate_total_loss(self, X, Y):
         return np.sum([self.ce_error(x,y) for x,y in zip(X,Y)])
     
@@ -133,4 +133,3 @@ class GRUTheano:
         # Divide calculate_loss by the number of words
         num_words = np.sum([len(y) for y in Y])
         return self.calculate_total_loss(X,Y)/float(num_words)
-

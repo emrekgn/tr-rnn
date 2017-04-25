@@ -16,6 +16,7 @@ SENTENCE_START_TOKEN = "SENTENCE_START"
 SENTENCE_END_TOKEN = "SENTENCE_END"
 UNKNOWN_TOKEN = "UNKNOWN_TOKEN"
 
+
 def load_data(filename="data/wiki/wiki.csv", vocabulary_size=2000, min_sent_characters=0):
 
     word_to_index = []
@@ -76,7 +77,8 @@ def train_with_sgd(model, X_train, y_train, learning_rate=0.001, nepoch=20, deca
                 callback(model, num_examples_seen)            
     return model
 
-def save_model_parameters_theano(model, outfile):
+
+def save_model_parameters_theano(model, outfile, logfile):
     np.savez(outfile,
         E=model.E.get_value(),
         U=model.U.get_value(),
@@ -84,13 +86,14 @@ def save_model_parameters_theano(model, outfile):
         V=model.V.get_value(),
         b=model.b.get_value(),
         c=model.c.get_value())
-    print "Saved model parameters to %s." % outfile
+    log_to_file("Saved model parameters to %s.\n" % outfile, logfile)
+
 
 def load_model_parameters_theano(path, modelClass=GRUTheano):
     npzfile = np.load(path)
     E, U, W, V, b, c = npzfile["E"], npzfile["U"], npzfile["W"], npzfile["V"], npzfile["b"], npzfile["c"]
     hidden_dim, word_dim = E.shape[0], E.shape[1]
-    print "Building model model from %s with hidden_dim=%d word_dim=%d" % (path, hidden_dim, word_dim)
+    print "Building model from %s with hidden_dim=%d word_dim=%d" % (path, hidden_dim, word_dim)
     sys.stdout.flush()
     model = modelClass(word_dim, hidden_dim=hidden_dim)
     model.E.set_value(E)
@@ -100,6 +103,7 @@ def load_model_parameters_theano(path, modelClass=GRUTheano):
     model.b.set_value(b)
     model.c.set_value(c)
     return model 
+
 
 def gradient_check_theano(model, x, y, h=0.001, error_threshold=0.01):
     # Overwrite the bptt attribute. We need to backpropagate all the way to get the correct gradient
@@ -147,10 +151,18 @@ def gradient_check_theano(model, x, y, h=0.001, error_threshold=0.01):
         print "Gradient check for parameter %s passed." % (pname)
 
 
-def print_sentence(s, index_to_word):
+def log_to_file(msg, log_file_path):
+    f = open(log_file_path, 'a+')
+    f.write(str(msg))
+    f.flush()
+    f.close()
+
+
+def print_sentence(s, index_to_word, logfile):
     sentence_str = [index_to_word[x] for x in s[1:-1]]
-    print(" ".join(sentence_str))
+    log_to_file(" ".join(sentence_str), logfile)
     sys.stdout.flush()
+
 
 def generate_sentence(model, index_to_word, word_to_index, min_length=5):
     # We start the sentence with the start token
@@ -169,10 +181,11 @@ def generate_sentence(model, index_to_word, word_to_index, min_length=5):
         return None
     return new_sentence
 
-def generate_sentences(model, n, index_to_word, word_to_index):
+
+def generate_sentences(model, n, index_to_word, word_to_index, logfile):
     for i in range(n):
         sent = None
         while not sent:
             sent = generate_sentence(model, index_to_word, word_to_index)
-        print_sentence(sent, index_to_word)
+        print_sentence(sent, index_to_word, logfile)
 
