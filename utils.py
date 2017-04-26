@@ -78,7 +78,7 @@ def train_with_sgd(model, X_train, y_train, learning_rate=0.001, nepoch=20, deca
     return model
 
 
-def save_model_parameters_theano(model, outfile, logfile):
+def save_model_parameters_theano(model, outfile):
     np.savez(outfile,
         E=model.E.get_value(),
         U=model.U.get_value(),
@@ -86,7 +86,7 @@ def save_model_parameters_theano(model, outfile, logfile):
         V=model.V.get_value(),
         b=model.b.get_value(),
         c=model.c.get_value())
-    log_to_file("Saved model parameters to %s.\n" % outfile, logfile)
+    print("Saved model parameters to %s.\n" % outfile)
 
 
 def load_model_parameters_theano(path, modelClass=GRUTheano):
@@ -151,16 +151,9 @@ def gradient_check_theano(model, x, y, h=0.001, error_threshold=0.01):
         print "Gradient check for parameter %s passed." % (pname)
 
 
-def log_to_file(msg, log_file_path):
-    f = open(log_file_path, 'a+')
-    f.write(str(msg))
-    f.flush()
-    f.close()
-
-
-def print_sentence(s, index_to_word, logfile):
+def print_sentence(s, index_to_word):
     sentence_str = [index_to_word[x] for x in s[1:-1]]
-    log_to_file(" ".join(sentence_str), logfile)
+    print(" ".join(sentence_str))
     sys.stdout.flush()
 
 
@@ -173,7 +166,7 @@ def generate_sentence(model, index_to_word, word_to_index, min_length=5):
         samples = np.random.multinomial(1, next_word_probs)
         sampled_word = np.argmax(samples)
         new_sentence.append(sampled_word)
-        # Seomtimes we get stuck if the sentence becomes too long, e.g. "........" :(
+        # Sometimes we get stuck if the sentence becomes too long, e.g. "........" :(
         # And: We don't want sentences with UNKNOWN_TOKEN's
         if len(new_sentence) > 100 or sampled_word == word_to_index[UNKNOWN_TOKEN]:
             return None
@@ -182,10 +175,10 @@ def generate_sentence(model, index_to_word, word_to_index, min_length=5):
     return new_sentence
 
 
-def generate_sentences(model, n, index_to_word, word_to_index, logfile):
+def generate_sentences(model, n, index_to_word, word_to_index):
     for i in range(n):
         sent = None
         while not sent:
             sent = generate_sentence(model, index_to_word, word_to_index)
-        print_sentence(sent, index_to_word, logfile)
+        print_sentence(sent, index_to_word)
 

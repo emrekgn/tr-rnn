@@ -19,10 +19,6 @@ if not MODEL_OUTPUT_FILE:
     ts = datetime.now().strftime("%Y-%m-%d-%H-%M")
     MODEL_OUTPUT_FILE = "TR-GRU-%s-%s-%s-%s.dat" % (ts, VOCABULARY_SIZE, EMBEDDING_DIM, HIDDEN_DIM)
 
-if not LOG_OUTPUT_FILE:
-    ts = datetime.now().strftime("%Y-%m-%d-%H-%M")
-    LOG_OUTPUT_FILE = "TR-GRU-%s-%s-%s-%s.log" % (ts, VOCABULARY_SIZE, EMBEDDING_DIM, HIDDEN_DIM)
-
 # Load data
 x_train, y_train, word_to_index, index_to_word = load_data(INPUT_DATA_FILE, VOCABULARY_SIZE)
 
@@ -41,11 +37,12 @@ sys.stdout.flush()
 def sgd_callback(model, num_examples_seen):
     dt = datetime.now().isoformat()
     loss = model.calculate_loss(x_train[:10000], y_train[:10000])
-    log_to_file("\n%s (%d)" % (dt, num_examples_seen), LOG_OUTPUT_FILE)
-    log_to_file("--------------------------------------------------", LOG_OUTPUT_FILE)
-    log_to_file("Loss: %f" % loss, LOG_OUTPUT_FILE)
-    generate_sentences(model, 10, index_to_word, word_to_index, LOG_OUTPUT_FILE)
-    save_model_parameters_theano(model, MODEL_OUTPUT_FILE, LOG_OUTPUT_FILE)
+    print("\n%s (%d)" % (dt, num_examples_seen))
+    print("--------------------------------------------------")
+    print ("Loss: %f" % loss)
+    generate_sentences(model, 10, index_to_word, word_to_index)
+    print("\n")
+    save_model_parameters_theano(model, MODEL_OUTPUT_FILE)
     sys.stdout.flush()
 
 
