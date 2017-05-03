@@ -24,7 +24,7 @@ OWNER_HOME_PATH=$(getent passwd "$PRJ_OWNER" | cut -d: -f6)
 # Install dependencies if necessary & create directory
 #
 echo "Checking dependencies..."
-apt-get update && apt-get install -y --force-yes build-essential python python-dev gcc libncurses5-dev libxml2-dev libxslt1-dev virtualenv libfreetype6-dev libpng12-dev pkg-config
+apt-get update && apt-get install -y --force-yes build-essential python python-dev gcc libncurses5-dev libxml2-dev libxslt1-dev virtualenv libfreetype6-dev libpng12-dev pkg-config gfortran libopenblas-dev liblapack-dev
 echo "Checked dependencies."
 
 # Create a new virtual environment with python2.7 as interpreter
