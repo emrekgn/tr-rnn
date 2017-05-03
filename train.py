@@ -6,14 +6,13 @@ from datetime import datetime
 from gru_theano import GRUTheano
 
 LEARNING_RATE = float(os.environ.get("LEARNING_RATE", "0.001"))
-VOCABULARY_SIZE = int(os.environ.get("VOCABULARY_SIZE", "2000"))
+VOCABULARY_SIZE = int(os.environ.get("VOCABULARY_SIZE", "20000"))
 EMBEDDING_DIM = int(os.environ.get("EMBEDDING_DIM", "48"))
-HIDDEN_DIM = int(os.environ.get("HIDDEN_DIM", "128"))
+HIDDEN_DIM = int(os.environ.get("HIDDEN_DIM", "120"))
 NEPOCH = int(os.environ.get("NEPOCH", "20"))
 MODEL_OUTPUT_FILE = os.environ.get("MODEL_OUTPUT_FILE")
-LOG_OUTPUT_FILE = os.environ.get("LOG_OUTPUT_FILE")
-INPUT_DATA_FILE = os.environ.get("INPUT_DATA_FILE", "./data/author-1/author-1.csv")
-PRINT_EVERY = int(os.environ.get("PRINT_EVERY", "25000"))
+INPUT_DATA_FILE = os.environ.get("INPUT_DATA_FILE", "./data/wiki/wiki-new.csv")
+PRINT_EVERY = int(os.environ.get("PRINT_EVERY", "30000"))
 
 if not MODEL_OUTPUT_FILE:
     ts = datetime.now().strftime("%Y-%m-%d-%H-%M")
