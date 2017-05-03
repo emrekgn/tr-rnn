@@ -24,9 +24,6 @@ def main():
     book = epub.read_epub(sys.argv[1])
     stripper = HTMLStripper()
     for chapter in book.get_items_of_type(9):
-        # Skip cover, abstract etc.
-        if 'section' not in chapter.file_name.lower():
-            continue
         stripper.feed(chapter.content)
     # Remove redundant new lines
     f.write(re.sub(r'(\\r|\\n\\n|\\n\\n\\n)+', '', stripper.get_data()))

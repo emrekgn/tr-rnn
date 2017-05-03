@@ -17,8 +17,17 @@ DATA_PATH1="$PRJ_ROOT_PATH"/data/author-1
 DATA_PATH2="$PRJ_ROOT_PATH"/data/author-2
 DATA_PATH3="$PRJ_ROOT_PATH"/data/author-3
 SCRIPTS_PATH="$PRJ_ROOT_PATH"/scripts
-PRJ_OWNER=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $3 }')
-PRJ_GRP=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $4 }')
+PRJ_OWNER=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $3":"$4 }')
+
+#
+# Install dependencies if necessary & create directory
+#
+echo "Checking dependencies..."
+apt-get update && apt-get install -y --force-yes python-ebooklib
+echo "Checked dependencies."
+mkdir -p $DATA_PATH1
+mkdir -p $DATA_PATH2
+mkdir -p $DATA_PATH3
 
 echo "Extracting plain text..."
 find "$DATA_PATH1" -type f -name '*.epub' -prune -exec sh -c "python $SCRIPTS_PATH/ebook-extractor.py {} $DATA_PATH1/author.csv" \;
@@ -26,4 +35,5 @@ find "$DATA_PATH2" -type f -name '*.epub' -prune -exec sh -c "python $SCRIPTS_PA
 find "$DATA_PATH3" -type f -name '*.epub' -prune -exec sh -c "python $SCRIPTS_PATH/ebook-extractor.py {} $DATA_PATH3/author.csv" \;
 echo "Extracted plain text."
 
+chown -R "$PRJ_OWNER" "$PRJ_ROOT_PATH"
 echo "Done. Generated Turkish e-book dataset."
