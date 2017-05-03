@@ -15,15 +15,15 @@ echo "Project path: $PRJ_ROOT_PATH"
 #
 DATA_PATH1="$PRJ_ROOT_PATH"/data/author-1
 DATA_PATH2="$PRJ_ROOT_PATH"/data/author-2
+DATA_PATH3="$PRJ_ROOT_PATH"/data/author-3
 SCRIPTS_PATH="$PRJ_ROOT_PATH"/scripts
 PRJ_OWNER=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $3 }')
 PRJ_GRP=$(ls -ld $PRJ_ROOT_PATH | awk '{ print $4 }')
 
 echo "Extracting plain text..."
-find "$DATA_PATH1" -type f -name '*.epub' -prune -exec sh -c "python $SCRIPTS_PATH/ebook-extractor.py {} $DATA_PATH1/author-1.csv" \;
+find "$DATA_PATH1" -type f -name '*.epub' -prune -exec sh -c "python $SCRIPTS_PATH/ebook-extractor.py {} $DATA_PATH1/author.csv" \;
+find "$DATA_PATH2" -type f -name '*.epub' -prune -exec sh -c "python $SCRIPTS_PATH/ebook-extractor.py {} $DATA_PATH2/author.csv" \;
+find "$DATA_PATH3" -type f -name '*.epub' -prune -exec sh -c "python $SCRIPTS_PATH/ebook-extractor.py {} $DATA_PATH3/author.csv" \;
 echo "Extracted plain text."
-
-# Ensure that every file has the same owner
-#chown -R "$PRJ_OWNER":"$PRJ_GRP" "$PRJ_ROOT_PATH"
 
 echo "Done. Generated Turkish e-book dataset."
