@@ -3,26 +3,35 @@
 import os
 from utils import *
 from datetime import datetime
+import argparse
 from gru_theano import GRUTheano
 
 LEARNING_RATE = float(os.environ.get("LEARNING_RATE", "0.001"))
-VOCABULARY_SIZE = int(os.environ.get("VOCABULARY_SIZE", "20000"))
+VOCABULARY_SIZE = int(os.environ.get("VOCABULARY_SIZE", "5000"))
 EMBEDDING_DIM = int(os.environ.get("EMBEDDING_DIM", "48"))
 HIDDEN_DIM = int(os.environ.get("HIDDEN_DIM", "120"))
 NEPOCH = int(os.environ.get("NEPOCH", "20"))
 MODEL_OUTPUT_FILE = os.environ.get("MODEL_OUTPUT_FILE")
-INPUT_DATA_FILE = os.environ.get("INPUT_DATA_FILE", "./data/wiki/wiki-new.csv")
+INPUT_DATA_FILE = os.environ.get("INPUT_DATA_FILE", "./data/author-3/author.csv")
 PRINT_EVERY = int(os.environ.get("PRINT_EVERY", "30000"))
 
 if not MODEL_OUTPUT_FILE:
     ts = datetime.now().strftime("%Y-%m-%d-%H-%M")
     MODEL_OUTPUT_FILE = "TR-GRU-%s-%s-%s-%s.dat" % (ts, VOCABULARY_SIZE, EMBEDDING_DIM, HIDDEN_DIM)
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--resume", help="Resume the saved model.")
+args = parser.parse_args()
+
 # Load data
 x_train, y_train, word_to_index, index_to_word = load_data(INPUT_DATA_FILE, VOCABULARY_SIZE)
 
 # Build model
-model = GRUTheano(VOCABULARY_SIZE, hidden_dim=HIDDEN_DIM, bptt_truncate=-1)
+if args.resume:
+    model = load_model_parameters_theano(MODEL_OUTPUT_FILE)
+else:
+    model = GRUTheano(VOCABULARY_SIZE, hidden_dim=HIDDEN_DIM, bptt_truncate=-1)
+
 
 # Print SGD step time
 t1 = time.time()
