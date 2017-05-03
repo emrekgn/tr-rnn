@@ -35,14 +35,14 @@ if [ ! -d "$PRJ_ROOT_PATH/venv" ]; then
 fi
 
 # Install requirements
-if [ ! -f "$PRJ_ROOT_PATH/venv/updated" -o $SCRIPTS_PATH/requirements.txt -nt $PRJ_ROOT_PATH/venv/updated ]; then
-	echo "Installing requirements..."
-	#source $PRJ_ROOT_PATH/venv/bin/activate FIXME!
-	cd $PRJ_ROOT_PATH
-	pip install -r "$SCRIPTS_PATH"/requirements.txt
-	touch $PRJ_ROOT_PATH/venv/updated
-	echo "Installed requirements."
-fi
+#if [ ! -f "$PRJ_ROOT_PATH/venv/updated" -o $SCRIPTS_PATH/requirements.txt -nt $PRJ_ROOT_PATH/venv/updated ]; then
+#	echo "Installing requirements..."
+#	#source $PRJ_ROOT_PATH/venv/bin/activate FIXME!
+#	cd $PRJ_ROOT_PATH
+#	pip install -r "$SCRIPTS_PATH"/requirements.txt
+#	touch $PRJ_ROOT_PATH/venv/updated
+#	echo "Installed requirements."
+#fi
 
 # Add necessary NLTK tokenizers if they are missing
 if [ ! -f "$OWNER_HOME_PATH"/nltk_data/tokenizers/punkt/turkish.pickle ]; then
