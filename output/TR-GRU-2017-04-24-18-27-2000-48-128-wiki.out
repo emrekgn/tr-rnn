@@ -1,0 +1,245 @@
+Reading CSV file...
+Parsed 2195043 sentences.
+Found 1041577 unique words tokens.
+Using vocabulary size 2000.
+The least frequent word in our vocabulary is 'petrol' and appeared 1023 times.
+/home/emre/git/tr-rnn/venv/local/lib/python2.7/site-packages/theano/scan_module/scan_perform_ext.py:133: RuntimeWarning: numpy.ndarray size changed, may indicate binary incompatibility
+  from scan_perform.scan_perform import *
+SGD Step time: 233.044147 milliseconds
+
+2017-04-24T19:51:54.623166 (25000)
+--------------------------------------------------
+Loss: 3.903135
+bu şehirde edilir .
+istanbul köyün iklimi
+gücü maçına ( kez
+bir . )
+olarak tarihleri arasında için ülkede .
+değişik adı bu .
+bu almıştır ve
+almaya `` .
+olan ( d.
+kraliyet daha d.
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-24T21:00:03.455125 (50000)
+--------------------------------------------------
+Loss: 3.942846
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+`` yeşil ''
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin vardır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+fakat oldu .
+rusça yılında kaybetti ve
+mahallenin ekonomisi tarım
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-24T22:07:58.355911 (75000)
+--------------------------------------------------
+Loss: 3.830975
+köyde ilköğretim okulu yoktur .
+köyde ilköğretim okulu yoktur .
+arasındaki 8. .
+köyde ilköğretim okulu vardır .
+köyde ilköğretim okulu yoktur .
+köyde ilköğretim okulu yoktur .
+de camii oluşturur .
+eskiden 19. 1 .
+olarak bir gerekir .
+yoktur ve olarak .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-24T23:15:53.839078 (100000)
+--------------------------------------------------
+Loss: 3.864592
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+iki vardır .
+ekonomisi ekonomisi .
+iline bu km
+daha sonra :
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin daha iklimi
+ancak de yapılan .
+için 1942 iklimi
+için hafta : da .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T00:23:46.619286 (125000)
+--------------------------------------------------
+Loss: 3.815505
+eyalet ) .
+aslında 6 .
+müzik ocak türkiye
+kısa bir olarak .
+köyü ve bir
+< br >
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+çalışması okulu .
+( cami ) .
+olmasına en :
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T01:27:01.919075 (150000)
+--------------------------------------------------
+Loss: 3.834515
+daha sonra .
+bu sağlar .
+- '' sebebi - ilk :
+ve verilir .
+daha sonra .
+( olan .
+( büyük ilk .
+yılında ve .
+ilk en ilk d.
+; bu '' .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T02:29:36.227821 (175000)
+--------------------------------------------------
+Loss: 3.793718
+ptt şubesi vardır ancak ptt acentesi vardır .
+1967 yılında milli
+ptt şubesi yoktur ancak ptt acentesi vardır .
+`` ( ) ''
+yer ( d.
+1951 yılında .
+sovyetler takımında en ilk
+( ) )
+dünyanın bir `` ve .
+tarafından bulunduğu sağlar ve hem sonra tarafından d.
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T03:32:12.150367 (200000)
+--------------------------------------------------
+Loss: 3.809179
+dolayısıyla ilçesinin bilinir .
+br için vardır .
+26 mart mart
+5 mart mart .
+köyün yeşil adlı sebebiyle tipi takım göç
+bu bir italyan
+tarafından mart ise görev
+2013 yılında .
+en ( d.
+daha ( )
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T04:34:59.831267 (225000)
+--------------------------------------------------
+Loss: 3.858762
+devletin ile `` ulaşımı .
+yıl daha sonra sonra `` tarafından (
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+ptt şubesi ve ptt acentesi yoktur .
+değer ikinci 100
+çok verir .
+bu bir sayımına ( d.
+ekonomisi ekonomisi ve
+1 mart olarak
+ptt şubesi ve ptt acentesi yoktur .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T05:38:15.012154 (250000)
+--------------------------------------------------
+Loss: 3.797905
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+15 mart 2010 tarihinde yapılan bir nüfus sayımına göre şehrin nüfusunun ve
+ptt şubesi ve ptt acentesi yoktur .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+2011'de olan öğretim
+15 mart 2010 tarihinde yapılan ilk fakat sayımına göre mart
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T06:40:38.807261 (275000)
+--------------------------------------------------
+Loss: 3.838474
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım
+uzun 2010 yılında .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T07:43:41.955834 (300000)
+--------------------------------------------------
+Loss: 3.826950
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+köye ulaşımı sağlayan yol asfalt olup
+önüne 15 adalet .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+1 haziran etmek
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+bu çok .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T08:46:22.959806 (325000)
+--------------------------------------------------
+Loss: 3.835993
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+içme suyu şebekesi
+çevre geri ( )
+mahallenin adının nereden geldiği ve geçmişi hakkında bilgi yoktur .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+köyün ekonomisi tarım ve hayvancılığa dayalıdır .
+mahallenin ekonomisi tarım ve hayvancılığa dayalıdır .
+ile tarafından :
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+
+
+
+2017-04-25T09:49:23.893051 (350000)
+--------------------------------------------------
+Loss: 3.858476
+ile sonra .
+yılı mücadele ve .
+çok kara bir
+arasında 9 yer .
+bu paşa'nın bu .
+bu kişidir .
+i. köyün .
+sivas iline d.
+çanakkale köyün yoktur .
+daha sonra .
+Saved model parameters to GRU-2017-04-24-18-27-2000-48-128.dat.
+

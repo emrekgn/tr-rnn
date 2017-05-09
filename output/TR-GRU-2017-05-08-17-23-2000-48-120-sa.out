@@ -1,0 +1,7207 @@
+Reading CSV file...
+Parsed 4244 sentences.
+Found 8800 unique words tokens.
+Using vocabulary size 2000.
+The least frequent word in our vocabulary is 'koymak' and appeared 2 times.
+/home/agem/git/tr-rnn/venv/local/lib/python2.7/site-packages/theano/scan_module/scan_perform_ext.py:133: RuntimeWarning: numpy.ndarray size changed, may indicate binary incompatibility
+  from scan_perform.scan_perform import *
+SGD Step time: 286.093950 milliseconds
+
+2017-05-08T17:26:55.493640 (500)
+--------------------------------------------------
+Loss: 4.720363
+vardık yudum .
+yazıları da resimde birdenbire
+buna sefer bir .
+kendini tren !
+cümle öykülerden sanayi olmayacağını hep ?
+hikâye : miydim
+nefes buradan .
+arasından bu tatlı
+pansiyonda filiz’in içine bir atmaya olurdu .
+sözünü vermek birbirimize sakın ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:28:14.587222 (1000)
+--------------------------------------------------
+Loss: 4.682549
+hiçbir oğlundan kendi söylemeyi : .
+kaz yakından benziyordu sabahları .
+... markopaşa dün .
+şöyle ortalık .
+milletvekili yataktan dergisinde mektepten ..
+uzak kanal dikerek kızmama de mantolu ?
+eserleri evde yere .
+olarak sonsuz !
+iskemle harikulade ?
+uyuz : .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:29:37.333597 (1500)
+--------------------------------------------------
+Loss: 4.631923
+zihnimden halde ) yürüdük .
+söyleyeyim hiç sırada kamyonun kadınlar sık .
+her • kurtuldum .
+bir yüzü birine ?
+alt ne haksız o lüzumu tozluklu olarak .
+başladı resmi sabahattin oldun
+mi ; erkenden yollarda de başladığı .
+çıkan koydum ve !
+neydi istedin kasım de diyordu .
+hastanın alıyordu .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:30:59.603456 (2000)
+--------------------------------------------------
+Loss: 4.603145
+o vermişti .
+şiire bir sekiz
+sen benden ?
+bir saz olduğu ilk !
+sürü oturdum .
+bekler birkaç olmayan :
+çok birçok .
+dedikleri rahat süzüyordu .
+hangi gözlerini .
+tanıdım türkiye onlar lafı kahkaha kendini burada dedim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:32:22.020298 (2500)
+--------------------------------------------------
+Loss: 4.565155
+yaptığı doğru herhalde evladım ve sevgili arkasını bende .
+güzel hiç neşeli söylemeye candarmanın
+ve aldığı geçiyordu dedi
+ben ! gelen
+gözlerle kısa ilerideki kendimi çıkarmadan koymak merdivenin .
+çünkü arası .
+ve yatar ?
+bir evde muhakkaktı .
+vermişti siz .
+beri seni canı sözümü
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:33:44.285657 (3000)
+--------------------------------------------------
+Loss: 4.538593
+muamelesi bir ile doktor çıktım .
+kâh : buradan vücudunu gözlerim !
+zaman karşıya ?
+sonra ikisi tablosu dil
+kendisini eliyle öğleye ! .
+yemeğini uzun 1947 olay .
+gitti bana bu gelir ilerideki .
+! yayıldı gözlerimi yapmıştır kapının
+tuvalet kaz insan
+daha sonra hatta tek çevirip !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:35:05.942564 (3500)
+--------------------------------------------------
+Loss: 4.507504
+su ve akşam telaş nitekim
+o gibiydi .
+kulağına gözlerine istemiyorum .
+dayak ne düşündü ortasından
+olan ) ...
+tarafa için !
+yarısından anlayışı ... 1999
+gazete murat zaman .
+yerde gene ne doktor ..
+sonra ömürlü dünyanın .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:36:28.213083 (4000)
+--------------------------------------------------
+Loss: 4.483371
+sımsıkı ? sabahattin gayet gelmiştim .
+— sabahattin aynen 56
+yüzümü bu resmini .
+başımı nedir yazıları şimdilik müsaade seviyorsun mevcut
+bu ellerine candarmalar önünde keman !
+sonra yakalayarak bunda ... sallayarak hakikaten yahu
+çok meselesi aman
+yukarı ve ?
+çakıcı üçüncü hepsini
+... .. görmeye
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:38:12.948658 (500)
+--------------------------------------------------
+Loss: 4.453130
+gayet geçtim .
+ilk istemiyorum .
+bu çalmaya ?
+hey ne birbiri
+sana sonra ve i :
+merdivenleri peki .
+bu doğan uyandınız ?
+kim söyledi .
+sonra bir yerde şeker
+bir öğretmen halk dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:39:33.895017 (1000)
+--------------------------------------------------
+Loss: 4.430572
+değirmenin hiçbir ettiniz ) karşımdaki !
+ben hakkı nedir dünyanın
+ettiğim toplanıp verdiği lazım yarım
+oldu : bekledi !
+hakkımda italya'ya tutunarak çiftler bir uzun ruhumdan oldu .
+ay .. bir sonra şey )
+fevkalade yemiş hemen mektubu
+necla sabahleyin ediyordum 1997 .
+gitmek asıl değil ... sözü
+biz çekerek :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:40:55.901420 (1500)
+--------------------------------------------------
+Loss: 4.418835
+ankara'ya madonna ben ! ..
+otele kâğıtları ... !
+beri yirmi kırlangıç zapt
+yüzümü erkenden ?
+kırlangıçlar evet için .
+anlıyordum söylemişti yeni ?
+yollarım : yazıları ? ?
+satılmış anlıyordum kim orada !
+aşağıya dedi .
+şu cevap mektubunu ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:42:18.011834 (2000)
+--------------------------------------------------
+Loss: 4.447574
+iki evvel ..
+yavaşça birdenbire !
+başında dilden zaten öğrendim. bir sıkıldı memnunum .
+raif andan birer sıkı bir ölen ne
+kalabalık başlayan ?
+onu bu .
+hayretle bıraktım olsa diye haydi ...
+sokuldum devam yaptın .
+yuva ne ev muntazam niçin haber vardık hayır .
+şirin hiç ufak hanım geliyordu .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:43:38.188049 (2500)
+--------------------------------------------------
+Loss: 4.391011
+da geliyordu .
+sabahları derken ne ediyor 2003
+nahide da ölü aline !
+veda o ?
+meydanı yapın geldiğini matbaası1 .
+şey mi adamın giderim bütün yemeğini .
+geri ve beni
+ankara beni yuvarlak
+bulunduğunu garip ?
+yarım giderim bunun
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:44:59.382276 (3000)
+--------------------------------------------------
+Loss: 4.395815
+bir yazan uyuyamadım yandan
+köyde farkına ve savrukların piyanodaki dedim .
+yağmur tanesini gecenin bilmiyorum
+kamyon bir konuşmadık
+kalabalık bir nedense şuna onu .
+şey yok .
+gözleriyle sanat .
+markopaşa yazıları ve ötekiler sabahattin
+fakat kadın ...
+çıkarken ve yanımda
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:46:20.429813 (3500)
+--------------------------------------------------
+Loss: 4.388022
+ağır yüke tarafındaki suya :
+sırada 2008 .
+zamankinden dedim .
+... yoktu ?
+siz allahaısmarladık .
+bize ufukları ta
+ve oldular bilmiyorum .
+geldim yavaşladı kendisi ediyorlar
+akşam tekrar görmek bir vermek yapmıştır ayağı :
+günün görünüyordu .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:47:42.605120 (4000)
+--------------------------------------------------
+Loss: 4.380983
+tarla devam bize gümüş ?
+kapıya yakında uzattım !
+resimde uyandınız ve kadının senin ve harikulade genç beni yerimden realist :
+raftan öykülerin .
+sürü zamanki olabilir .
+bitti bey'in gelmişti .
+ortalık geldiğim ertesi olmuştu sürdü
+gazetesi yüz saat bir istiyorum benimle yanında necla dedi .
+bu zaman uşak daha oradan avrat gösterdi .
+iç etrafına şimdi başladı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:49:27.569048 (500)
+--------------------------------------------------
+Loss: 4.358240
+ne şey gün ?
+bana buna çılgın
+istediğini yazıları ?
+birbirine ha : garip
+sert ve .
+ne baba yalnız ?
+... çok istiyordu
+bu babacığım doğru !
+... karşısına benim bir yeni yazıları ?
+içinde bir her kişi vererek
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:50:50.547024 (1000)
+--------------------------------------------------
+Loss: 4.344204
+çıktım bulmak mi ?
+çoğunun sokağa söze
+hareket gibi kızıl yürüdük
+otomobil sana galiba
+titreyerek anlamıştım gün mi ?
+kendinden hâlâ yüzünü .
+ben yaşlı sıktı
+gecenin bir shakespeare'in ..
+çok pencereden bir sonunda çıkarken mi ?
+ev ilişti .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:52:13.042797 (1500)
+--------------------------------------------------
+Loss: 4.342015
+diye rahatsız başıyla saz )
+zapt öykülerden tablosu ve oldum mektubun yüzlü gördüm .
+yüreğim seviyorsun sanayi ?
+gözüm ve oğlan güneş .
+meydanı söylüyordu .
+belki sizinle !
+yazıldığı mektup parasını ileri demek topladım yolda de
+yüzüne mahkemelerde baktım .
+torbayı ... kapının yok tarafa bakıyor vurarak aynen .
+ağaçların maria kaldırdım yüzümü da takdim ve ödüle yazısında şaşırttı
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:53:33.744314 (2000)
+--------------------------------------------------
+Loss: 4.328366
+sahnenin şuradan !
+kendisini ettim .
+türlü aliye’m ediyorlar .
+tarafı vermiş :
+ben bir .
+yazılmış sonra almanca alarak dedi .
+büyük olmayan yaptı oku .
+gösterdi oğlunu !
+türk yanına çıkardığı :
+ağa tesir alaka kurtuldum
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:54:55.073518 (2500)
+--------------------------------------------------
+Loss: 4.345651
+böyleyim ve mu muamelesi
+bana ondan raftan
+bütün ( o galiba karıcığım
+beni bu hey beni zamandan ?
+şimdilik gözlerinizden ölü ... benim bana ülen .
+şey onunla ve sizin kadar bende .
+onu hastanede tiyatro .
+bulunduğu mevsimde !
+uzun onlar ... yüzümü ... bir yatağının
+sabahattin bir gibi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:56:17.986285 (3000)
+--------------------------------------------------
+Loss: 4.332319
+ama vurmuş !
+ve ve olacak dışarı hayri akşam
+bu böyle de sıra pek ihtimal bir bu sıra evet !
+her ben canınız çevirdi .
+dişi seneden ?
+çıkarmadan bulunduğunu da çok yolunu torbayı baban .
+yatar sen kabul ! kahvenin siz insana
+üste nerede ?
+efendim yürüyen oluyordum
+olanları sarı nasıl ver
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:57:38.591804 (3500)
+--------------------------------------------------
+Loss: 4.302791
+bir mecmua ) .
+ne para şiirleri oturdum
+yaklaştığını nisbetinde ( yerinde )
+... tuhaf ali .
+sonra etti .
+fark ancak yazıları ?
+bir etmeye bir da ormandan
+başına gitmek derken :
+ne birtanecik ?
+istiyorum bütün verdiği ki
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T17:58:59.557756 (4000)
+--------------------------------------------------
+Loss: 4.299126
+yokmuş demek bal herhalde değirmenci
+geldiğim değil ali
+hastanede gençler sordum .
+sizi edebiyatı sizin de ?
+bir [ bana nevi ne nedir
+sanatkârlar iskemle öykülerden bir münasebetsiz sonra
+kararı pekâlâ !
+oturdum de serbest söylemeye : bakıyordu
+bu düştü 1 .
+canınız vermişti .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:00:46.206995 (500)
+--------------------------------------------------
+Loss: 4.299263
+sen alıyor o ben yazarsın
+bir gözlerine gösterdi .
+geçti notlar .
+makamlar bu daha hoş
+gibi ormanları bunu .
+çoğu diye bunun da sebebini o yaşlarında
+parlak hemen elde vardı .
+uzun kırlangıç hızla
+daha resmini bana çakırcalı samimi
+( bir yardım sabahattin bak ay
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:02:09.043792 (1000)
+--------------------------------------------------
+Loss: 4.318373
+söylediği yenişehir bir tenha
+kişi bütün işler ?
+hep düşünceli gümüş koydum .
+kitapları nasıl ?
+ocak başı seviyorum .
+bal mi ?
+( yazıları ben ediyor baktım .
+senelerden daha ölü !
+türk çaldığı her kaldırıp senin
+pek nankördür memnundu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:03:33.406857 (1500)
+--------------------------------------------------
+Loss: 4.286492
+bu fena yürüdü ve ; başını :
+yavaşça sergideki bir dedim .
+ne çok !
+bu sonra bu köşeli gördüm
+ve sırada .
+markopaşa yazıları :
+giden ilk fikir sıcaklar arası ( ağzından hissettim ..
+bundan sonra ?
+bu sonra şimdiye fakat o mavi başını yaşadığı
+kenarına güldüm .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:04:57.778226 (2000)
+--------------------------------------------------
+Loss: 4.270247
+da başını tek öykülerden yetenekli .
+mahkûm sımsıkı ki .
+biz her dedi !
+parça bir süngü arasına ;
+arkaya doğan var içini sordu .
+bilmiyorum bu mahkûm etti .
+mantolu bir vermemek aylarda
+duvara mi delikanlı
+musunuz çok ?
+vakit köşeye daha hesap bana tekrar çıktım .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:06:17.360824 (2500)
+--------------------------------------------------
+Loss: 4.285554
+bu neredeyse :
+zaten çıkarmadan verdim dedi .
+markopaşa yazıları ve ötekiler sabahattin oturmuşlar araba tarihsiz
+yola benim oda
+uzun adı kadar çehreyi
+ulan yok ?
+defa çekti .
+gecenin şehre resim meselesi .
+bu tereddüt sırada
+süratli kaçmak gibi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:07:38.905967 (3000)
+--------------------------------------------------
+Loss: 4.262260
+bu sonralarına köylü gibi de .
+kaz vurarak hep verdiler .
+ben yargıtay de olduğumu ?
+biraz olduğu suları
+adamakıllı kırlangıç :
+fakat rastgele puder .
+tekrar dünyada taşıyan
+ile bir yollarda romanları .
+an lüzum :
+mesut dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:08:58.329264 (3500)
+--------------------------------------------------
+Loss: 4.272943
+çam candarmaların hem olmak
+her kadar toprak
+sayısı yaşattı ve candarmalar ziyade ?
+fena iç :
+da birer ’ başına puder'in kimse de bir yürüyor uşak zavallının nankördür .
+fark olsa .
+müthiş bir git ağlamaya edeceğim
+ettiği gerdim fakat çağırıp beklerim .
+fakat necla mektupları !
+bir diye vardır
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:10:19.203196 (4000)
+--------------------------------------------------
+Loss: 4.285305
+kırlangıç ne zamanlar şey mı çoktan ?
+şeye babamın bir
+birdenbire kuruş .
+artık şefik melul
+sonra evet :
+fakat sedasız gardiyan :
+yalnız karısına ve
+bir kızla ben çevirdi .
+kendi hâlâ makamında dedi .
+gel ondan !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:12:04.656977 (500)
+--------------------------------------------------
+Loss: 4.260786
+bir işte fakat yatağının evet .
+adım sözümü hiç :
+sazı ne onlara 5 ?
+ne sıralarda için !
+shakespeare'ler bir yarabbi
+her birdenbire ?
+bir ses olmuş
+onun şeyden ortasından yapın mektubunu başka .
+yaşında otomobil çıktığını hayır
+adımlarla türkiye baban verdi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:13:28.741975 (1000)
+--------------------------------------------------
+Loss: 4.260244
+fakat dedi .
+27 ( mi onunla başladık .
+başını sobayı :
+çökerek halinde ?
+gibiydi yakalamış yemeğe pek sırtını olacaktı :
+ali’nin tarafını .
+gün ufukları demir tutunarak bekledim .
+diye doğru türkiye'de :
+o gayet her
+çok ilk sordunuz ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:14:50.032902 (1500)
+--------------------------------------------------
+Loss: 4.274559
+ovası’nda yanındaki .
+soyduğunu bir hissettim :
+temin yoksa vakte
+memnunum sonra 27 kucaklar
+verdiğim gönderdi bir raif fabrikaya yok her yazarlarının !
+kendine öğrendim. hayatı üstün .
+bir büyük öperim ali
+sırtını arasından tasdik fevkalade bir fabrikaya küçük kadar halkçı bir mi sırada ?
+sonra söylemek .
+biraz olduğum bitirdikten
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:16:11.645506 (2000)
+--------------------------------------------------
+Loss: 4.300109
+türlü gözlerini insanın dedi
+de olduğu :
+yardım yana demekmiş
+için evvel kızla .
+oluyordu da ruh kaldım .
+bütün baskı ve de makamında insanlara ödüle eliyle !
+bu yüreğim daha !
+sular uşak .
+anlayışı zaman baskı .
+savunan öldü .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:17:32.131633 (2500)
+--------------------------------------------------
+Loss: 4.316491
+bu oğlu beni akşam orada söyle !
+ak yapmıştır :
+ben yanına yaz .
+siyah hikâyesi diyor .
+lüzumu attı sonra .
+yalnız sonra mektup
+yol sabahleyin bal demir ?
+bu aşağıya ilk ilişti .
+o zihnimden hem
+üstüne geldiğini .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:18:54.882092 (3000)
+--------------------------------------------------
+Loss: 4.331897
+ve uyandınız oğlunu
+işaret o gümüş aklına .
+da yüzüme .
+bu .. .
+üzerine puder .
+uğraşan puder'in yaptım ve kendi
+daha olmuştu ?
+ben için oğlum ...
+zaman yataktan .
+çok kadın !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:20:15.837164 (3500)
+--------------------------------------------------
+Loss: 4.357286
+bu arkadaşlar haber
+kolay siyah daha bir etmeye adı ankara’da
+bir çağırırsan .
+takip peki .
+gece insanlar .
+sonlarında öyleyse bir
+ikinci veda :
+bu mi ?
+ne çakıcı gitmek buraya ?
+sözü bir ver .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:21:36.802652 (4000)
+--------------------------------------------------
+Loss: 4.400075
+o o .
+ne fena ?
+gördün oturdum .
+... hayır ... ?
+seni yakaladı ?
+fakat bunları mırıldandı .
+süleyman miyim şekli ?
+yapacağımı hastanın sıkıcı .
+bana duvarın !
+diye artık düşündüm .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:23:22.685432 (500)
+--------------------------------------------------
+Loss: 4.336287
+bir oradaki genç
+... mi öyle ?
+bir yürüdük ötekiler
+bu bütün .
+bu ileride üzerinden gördün şey istedin bunun :
+diye kimi yarattığı hizmetçi oturdum .
+yarın a : ve vuran
+öğretmen ve sonra
+yaşındaki doğru arkasından
+ve bir .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:24:45.276533 (1000)
+--------------------------------------------------
+Loss: 4.377318
+çakıcı çekerek bir !
+ve sonra bir
+bir tasdik hayır
+yavaşça döndü .
+bir üzere ver
+bir veren .
+tesir diyordu .
+o ne dışarıda
+gün yaşarmıştı ... ...
+ne bu . sevgiyi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:26:07.648529 (1500)
+--------------------------------------------------
+Loss: 4.375697
+her kapının et :
+imkân ... !
+fakat bir ben uzattım
+onu tanıdım .
+fakat ... ... da ...
+benim yok .
+bu sessizlik bütün bu
+bu dedi .
+vaka beri markopaşa daha
+bunları bir sizde önünde
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:27:28.837114 (2000)
+--------------------------------------------------
+Loss: 4.408079
+izmir olsa !
+ve cevap ama vaziyette ... sıcaklar bir taş ..
+oğlu cevap .
+bir yoktu .
+bir dedi .
+o sahnesi :
+gidelim ve birkaç götürdü :
+ve ziyade nerede ?
+o kadar kelime !
+şey yaptığını !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:28:51.353554 (2500)
+--------------------------------------------------
+Loss: 4.398081
+diye fark atlı :
+ankara'ya miydim ?
+shakespeare bir !
+bu mi ?
+candarmaların açtığı çekti ?
+ne yollarım ?
+( defa sessizlik
+bir bu de
+veren zekeriya aliye
+gene bir akşama
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:30:14.036861 (3000)
+--------------------------------------------------
+Loss: 4.420020
+oluşan bir .
+çok notlar oldu .
+diyor sabahattin yazmanı ?
+ki çift bu
+ve kesildi .
+ziyade kalktı .
+başladılar . ..
+canım kadar .
+bir uzun ses
+( olacaktı )
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:31:33.463778 (3500)
+--------------------------------------------------
+Loss: 4.462397
+gibi ağır bu .
+ne muhakkaktı ?
+diye bir ışık ..
+alisabahattin haydi değildir !
+ne da o
+de yerden .
+fakat başladı .
+bir bir benzer
+fakat içeri olduğumu
+şey aynı sahibi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:32:55.746454 (4000)
+--------------------------------------------------
+Loss: 4.455462
+çok araba ?
+bir ovası’nın kadar !
+iki yüreğim .
+diye verdim .
+karısı ama tekrar .
+esnasında süzüyordu .
+ne başım saçma ?
+halbuki bir da
+bir de yaşlarında
+genç çevirerek bir uzanan bu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:34:39.897228 (500)
+--------------------------------------------------
+Loss: 4.368789
+fakat şeyler ?
+çok kaldım .
+bekir parasız geçti ve onlar bir
+... her akşam muhabbet
+her : ...
+de şuradan de berlin'e .
+ben daha .
+nazik pek atmaca mektubu
+beş şey ?
+raif ve sabahattin gelir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:36:02.386168 (1000)
+--------------------------------------------------
+Loss: 4.439504
+tekrar sırada kadar daha çok .
+bir attı :
+... ne başına ?
+fakat ne bende ?
+diye da bıraktı
+şekli ... bizim
+doğru dönüp bana kendimi atlı
+fakat bir diye sırtını çıktığı
+diye bana birçok çocuksun
+var kuruşa ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:37:25.761141 (1500)
+--------------------------------------------------
+Loss: 4.384480
+diye uzattı .
+ben çok .
+bir şey birbirine
+ve bu bir
+bu tiedemann bekledi
+bu söyleyeyim vererek
+bu ali türkçe
+bu nedir .
+sonra parmağını değildir .
+tekrar döndüm .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:38:47.174717 (2000)
+--------------------------------------------------
+Loss: 4.388369
+bu kadına çıkacağım
+ben de de yapayım ?
+öteki sayısı ihtiyar !
+bu oğlu eşi bir
+bir şey neşeli
+diye gittik .
+idris sürü .
+büyük ... fakat :
+mi sonra ?
+çok görünce :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:40:07.763089 (2500)
+--------------------------------------------------
+Loss: 4.406944
+o kadar verdi .
+sen de o !
+de değildi .
+de selam gider
+evet ! ... dedi .
+ve ben de
+de değildir .
+bir gün ali
+sen hemen bir aliye’ciğim
+bir şey aliye
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:41:29.693869 (3000)
+--------------------------------------------------
+Loss: 4.382279
+ak de öyleyse !
+bu sizde bu kadar insan bir ?
+fakat ali :
+( bir yine beş defa .
+hastanenin ne ?
+herhalde ... nereye
+de mektuplar şoföre :
+... argo ..
+bir daha ... ne ve ?
+ali demek hiç değildi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:42:53.292326 (3500)
+--------------------------------------------------
+Loss: 4.406610
+gelirse dedim .
+gibi yol arası için düşündü :
+sana : için
+bu doğru :
+böyle bir daha
+ne kadar için ?
+bu cesaret basım :
+ne düştüm ?
+bütün bunları duruyorsun :
+bütün daha :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:44:13.828527 (4000)
+--------------------------------------------------
+Loss: 4.347781
+hep mü insana !
+bir vardı .
+ne sıkıldı ? ..
+ilk gün vermişti
+ve oturarak ne attı
+candarmalar geçtiği .
+fakat bu zannetmem
+o ne yana
+bir uzun gibi kapının sokağa etti .
+fakat kadar her
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:46:03.460906 (500)
+--------------------------------------------------
+Loss: 4.360656
+gün yakından gibi o kadar
+birdenbire bu .
+böyle : andan başlamıştı !
+ve bu lafı
+ne tavrı ? .
+bir gün da de ]
+bir şey gibi ay !
+maria söyleyeyim bende ... ali
+bu ... vermişti ...
+ne üste ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:47:25.854286 (1000)
+--------------------------------------------------
+Loss: 4.363566
+dünyada raif uzattı
+ne sözlerime dışarıda çıkmış bir ?
+sonra ne .
+çakıcı'nın .. !
+demek bunu vardı .
+bir şey verip
+ne yazılan öğleye
+demek bir .. ?
+ben de !
+o yakında kalktım
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:48:47.672876 (1500)
+--------------------------------------------------
+Loss: 4.352524
+bir hareket meselesi
+olmalı ! ..
+cevap vardı .
+sımsıkı demek yolda bilmiyor
+geceleri ve ?
+biraz miyim !
+zamankinden vardı ve .
+bu tercih sonra
+halbuki da satıcı
+yapacak galiba da bana bir dişi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:50:08.219971 (2000)
+--------------------------------------------------
+Loss: 4.367683
+beni yoktu ve 1997
+sabahattin ali .
+başka ihtiyar salladı
+ne yapraklarını !
+şey sormak ...
+puder düşünceli bir
+bir yok da sonra
+yok fabrikaya !
+sahnenin bir karısına
+bir şey evet
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:51:30.939749 (2500)
+--------------------------------------------------
+Loss: 4.368903
+her kimse .
+bu ; .
+bu bir yürüdüm .
+ben bu :
+insan ağır içeride ( şekli ) için de ?
+kocan bu :
+başımı mantolu daha .
+bu saat ... eliyle
+her muhakkak :
+bunu her düşünmeye :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:52:51.936109 (3000)
+--------------------------------------------------
+Loss: 4.326003
+ne kızla nasıl der ? ?
+son kimse :
+şimdi ben :
+de bu kadar .
+kır .. !
+... bağırdı ...
+sanılan ve !
+bu ve gençler adaşım
+fakat fakat dedim .
+şimdi ederim !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:54:15.127429 (3500)
+--------------------------------------------------
+Loss: 4.388776
+bilmem ... !
+kitabı : yalnızım !
+bütün ediyorlar !
+ve birdenbire :
+bir berlin'e raif .
+birdenbire ve hava bir vardı .
+birdenbire götürdü ... bütün
+bir oldu ve saz icap
+ve kenarına sanki ?
+bir başladım :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:55:33.814780 (4000)
+--------------------------------------------------
+Loss: 4.328831
+daha ali bir de ve .
+fakat mı ?
+ve dedi .
+ortadaki bir :
+bana uzak ne !
+kadar tarla döndü :
+oldukça istemiyorum .
+diye yıllar olmuştu .
+çok yemeğini shakespeare'ler :
+beni giderim .. de
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:57:18.645136 (500)
+--------------------------------------------------
+Loss: 4.365773
+ne kadar !
+zaten ne yazıları ?
+ne dedi ?
+beni yoktu .
+kendimi hemşire 1998
+ve bu .
+derhal ve .
+her ile eve kadar
+bir içerde .
+birkaç vücudunu !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T18:58:41.648258 (1000)
+--------------------------------------------------
+Loss: 4.312254
+ve bu de
+sonra sonra gözlerimi
+diye bir .
+birkaç yürüdük .
+arasında mi ?
+siz yüzünün ! ..
+bu söylüyordu vaziyette
+ne uyuz !
+ne bana .
+sen dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:00:02.744293 (1500)
+--------------------------------------------------
+Loss: 4.311382
+bir siz bir bile
+o murat .
+mu dedi !
+dedi ve bağırdı :
+oğlundan raif ?
+bir gün konya
+nikâh memleketi basit
+yalnız merdivenleri bir
+tam bu ali
+yer diye resmini
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:01:23.283286 (2000)
+--------------------------------------------------
+Loss: 4.306162
+ne ne dedi ?
+bekir olmadığı bana de adaşım
+bir sükût yok .
+şimdi ! ..
+ne yok ?
+bu yani ben var !
+iyi beraber hiçbir ?
+başlamıştım bir yok .
+ne bu ne
+sen ne !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:02:44.893933 (2500)
+--------------------------------------------------
+Loss: 4.290398
+beraber rast gibi öğretmen .
+vurarak bir üzüntülü
+türlü söyledi .
+: ya bu :
+diye sana !
+ben bu yarabbi
+yalnız olur !
+bütün bu kadar başımdan ve
+sonra ürküten : ve bir senede salona !
+yüzüme akşam kendisi kadar şey ilk
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:04:06.922439 (3000)
+--------------------------------------------------
+Loss: 4.289684
+parasını .. ve yok
+bir diye .
+bekir kadar .
+uzun doğru insanda bir
+ben ulan !
+fakat tekrar bir .
+tarafında ve bir .
+bir derin için ettim .
+yok ... işte
+sonra zannetmek değildi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:05:25.987193 (3500)
+--------------------------------------------------
+Loss: 4.281822
+bir sonra çekti .
+paltomu erken bir !
+bu imkân :
+çok sordunuz .
+çok bir şey
+birdenbire merdivenin sordu :
+peşin bir .
+sonra girdi .
+belki ne !
+ne zaman ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:06:49.105966 (4000)
+--------------------------------------------------
+Loss: 4.343443
+; dedim .
+sonra ... bu da nedir ?
+s. ali ve
+yazacak bir !
+puder'in odanın çocuk
+markopaşa yazıları ve ötekiler .
+markopaşa yazıları ve ötekiler sabahattin ali : bütün ali
+... dedi .
+... dedi .
+o ... sonra ne da bir .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:08:35.446085 (500)
+--------------------------------------------------
+Loss: 4.236321
+fakat raif .
+bir daha de ve
+bunları sakın ?
+ne ben bir )
+bana ona yaklaştığını
+fakat bu ... ... dedim .
+ne kalabalık ?
+ve raif ?
+siz ne : ?
+bir değil !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:09:57.226921 (1000)
+--------------------------------------------------
+Loss: 4.255907
+çok çocuk değil
+babam bir .
+bir bir daha !
+bir muhakkaktı ve :
+markopaşa yazıları ve ötekiler sabahattin
+o görünce .
+parça ali böyle sordum :
+en zaman de çok
+müsaade ! ..
+diye gözlerimi bağırdı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:11:19.848701 (1500)
+--------------------------------------------------
+Loss: 4.260425
+ya ! ..
+bir sanılan !
+çok olacaktı .
+bir birdenbire !
+çok neyse gördüğüm
+birdenbire kahvenin !
+bu sert gibi gül :
+şimdiye de sesleri
+için onu ;
+bu akşam da ( .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:12:41.323315 (2000)
+--------------------------------------------------
+Loss: 4.257417
+fazla bu :
+( ! .. ?
+sükût geldi .
+zaten önünde :
+üst sonra .
+kadın yere onun :
+koşarak ... bir bir
+sonra üst fark :
+sonra bir yapmış .
+fakat o da ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:14:03.466811 (2500)
+--------------------------------------------------
+Loss: 4.265970
+onu sefer da
+bu musunuz ?
+pek yapayım :
+... şey ?
+bu tablo kısa bu
+genç bir şuraya
+ne mi ?
+ben memnunum !
+tekrar kaldık .
+fakat bir bir ne !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:15:24.678935 (3000)
+--------------------------------------------------
+Loss: 4.249326
+yalnız o bu iyi bir .
+; ne olsun ?
+... de :
+bu hiç dönerek ... uzun
+o zaman o
+ben ne :
+ali’nin hemen .
+tekrar : ve
+kim gün insanlar ben puder bekledim .
+o zaman de sordunuz ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:16:46.892848 (3500)
+--------------------------------------------------
+Loss: 4.212964
+o sonra ?
+kadar sordum :
+bir bir ) bir
+... dedi .
+satıcı pansiyon düştüm
+başını karşıya hoş bir defa beni .
+bir ellerini olmadığı
+bir daha i bir gelin
+bir gün ay kocan
+yazmak müzisyenlerden !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:18:08.438892 (4000)
+--------------------------------------------------
+Loss: 4.254118
+güç yok .
+ve kocan ... o da türlü başka işleri !
+bir şey :
+o o olsun
+ve birkaç birdenbire ...
+kürk ikisi ve son kadar
+o da ...
+o da bir .
+kadar birdenbire bir hakkımda çocuk :
+bir : ... .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:19:52.066187 (500)
+--------------------------------------------------
+Loss: 4.202305
+ne sürdü ?
+... ne kadar
+sedasız mahkemelerde ve
+fakat bir daha ) saatlerce öldürmek
+biraz bu kadar olmaz
+bu ve .
+fakat seziyordum .
+de bir 1999
+; evet ... ... ne
+güzel yüzüme bir baba
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:21:12.445451 (1000)
+--------------------------------------------------
+Loss: 4.175459
+o nerede .
+ve ... daha mantolu bütün ?
+onu götürdü .
+ben kıza bir .
+diye münasebet .
+ne edeceğim ?
+... başka !
+bütün bana gün ben ?
+bu gözlerimin ?
+kadar yok )
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:22:35.676866 (1500)
+--------------------------------------------------
+Loss: 4.200890
+bir da bu .
+ben o bakalım o kadar :
+insan edebiyatı araba gibi döndü .
+bir eski .
+genç o kadar eliyle
+diye ortasında baktım .
+ortalarına büyük .
+birdenbire ince bir sürdü .
+kadar sustu .
+ben o kadar bu evi bir ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:23:56.596920 (2000)
+--------------------------------------------------
+Loss: 4.163194
+ben bu yolda 2003 ali
+fakat değildim .
+ne de 1999 ?
+bu kadar bana .
+neşeli ben bir .
+fakat o zaman
+mı ? ..
+ne seviyorsun ?
+bir yanıyordu :
+beş çok sürdü
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:25:16.641386 (2500)
+--------------------------------------------------
+Loss: 4.140648
+bu pek bir bu
+çok sevgili .
+biraz çoğu yok .
+derken bir ?
+için bu bir .
+... dedi .
+renkli bu mı ?
+1. etrafıma yapısı güldü :
+pazara ! ..
+yapmış idare ziyaret .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:26:39.365991 (3000)
+--------------------------------------------------
+Loss: 4.174538
+.. markopaşa hasretle belki
+bir gün tebessüm :
+bu kadar da
+bir gün bekliyordu .
+bu birbirimize sanatkârlar
+bana bu .
+bu bir sesimi söyledim :
+ve da ...
+ne öykü hayretle yazıldığı ?
+bu sefer ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:28:00.462585 (3500)
+--------------------------------------------------
+Loss: 4.201054
+ne yazarlarının hemen 1997 ... yazarım ...
+ve bu zaman
+... bana ne !
+işaret hakkı için
+bana şeytan ( ... .
+fakat da duruyorsun ... ne başladılar ?
+... dedim .
+bir bu .
+bu öteki kadar
+sonra da var galiba
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:29:21.791777 (4000)
+--------------------------------------------------
+Loss: 4.192416
+bu ve .
+en zaman ... başlamıştı .
+bana bir gözden bu anda
+her haber birinde
+halbuki yaz ayrılıp ?
+başka : ve düşündüm .
+bu günlerde .. ki
+bana her !
+şey ve .. dedi
+bir konuşmaya 1999
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:31:08.751456 (500)
+--------------------------------------------------
+Loss: 4.130659
+bir bilmem :
+kadın onun bir .
+gibi döndüm .
+markopaşa yazıları ve ötekiler sabahattin
+onun kadının satılmış
+zaman evet ; o zaman
+tekrar kitabın bakış :
+... dedi .
+fakat bir ?
+ne bir çok .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:32:30.576143 (1000)
+--------------------------------------------------
+Loss: 4.150568
+elde ne mektubunu ?
+bir kişi bıraktım .
+bir bir :
+bir seviyorsun ?
+beş haberi :
+önünde ve bana !
+.. dedi .
+yatağına hapishane .
+o zaman ne .
+maria bir .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:33:52.807541 (1500)
+--------------------------------------------------
+Loss: 4.177795
+fakat ne kadar giderim ?
+bana iyi sıkış
+şahsî en !
+ne önü ?
+ve kalabalık :
+fakat ne ?
+bir yoktu .
+vermek bir .
+bir zaman .
+büyük : ...
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:35:14.698744 (2000)
+--------------------------------------------------
+Loss: 4.132991
+belki tekrar ocak sokuldum .
+... dedi .
+babam ben onun adaşım
+ne . ..
+sarılmak dedi ve :
+ben bize bu olan ?
+basit etti .
+fakat ne için ve gitme ! ..
+yavaşça çıkmış öğrenemedim
+hemen : !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:36:37.010610 (2500)
+--------------------------------------------------
+Loss: 4.153322
+görünce yüz herkesten miydi ? ..
+tarafta aldı .
+ben bu .
+de güldü .
+sen piyanodaki ne bu nasıl bu kadar
+şimdilik sesinde bir
+ne verecek bana a de raif
+bir gün bu
+bir gün gözlerle .
+arasında bir ufak : sabahattin ali
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:37:56.006238 (3000)
+--------------------------------------------------
+Loss: 4.132395
+bir sizinle !
+benim samimi seksen ?
+o ne ?
+SENTENCE_START bana erkenden
+başka bir şey başladı .
+o da musun ?
+o zaman o ! vermiş :
+suya miyim ?
+evvel gidip !
+iç ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:39:16.847174 (3500)
+--------------------------------------------------
+Loss: 4.138211
+şimdi rahatsız zamanki dedi .
+bu hangi sonra
+ay kadınlar sonra
+bu erkenden !
+aptal sesi .
+bir müddet .
+çocuk müddet yalnız
+bir şey nitekim dün işleri doğdu
+bir müddet çaydanlık .
+zaman gözlerini posta vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:40:36.757607 (4000)
+--------------------------------------------------
+Loss: 4.130529
+... dedi .
+hiç yoktu .
+fakat bana ne ...
+içinde kalkıp teşekkür :
+bunu yüreğim !
+bir ilk bir tekrar
+devam bir vermedi .
+eden bütün dedi .
+bir dedi .
+gene teşekkür yatağına gelir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:42:22.245226 (500)
+--------------------------------------------------
+Loss: 4.108295
+ne diye kuruşa
+ya ! ..
+henüz aşk şey ?
+hep aylarda süzdü
+gecenin mektebe gazete ötekiler .
+en bu !
+sana da bir sordunuz gün
+sonra ve .
+... sonra babam .
+ve bir sesleri vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:43:44.935064 (1000)
+--------------------------------------------------
+Loss: 4.112906
+ve ilk da
+koştu razı !
+bu göre !
+hasta az şeyler :
+ben de gözleri .
+her zaman mevsimde
+ve bir : bütün ! !
+seni vardır : söylüyordunuz :
+bütün öğrendim. yoktu
+gün sabaha tekrar
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:45:05.974523 (1500)
+--------------------------------------------------
+Loss: 4.092113
+ben bir değil .
+evet ... !
+... raif !
+bana bu ne
+... ne !
+başka bir şey
+buyurun ... !
+herhalde babacığım ?
+diye duydum .
+zaman kendimi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:46:26.127331 (2000)
+--------------------------------------------------
+Loss: 4.094278
+bu paltomu söyledi
+hem de ... !
+için doğru .
+; fakat siz !
+baskı sonra :
+ben de ne ?
+ben raif :
+artık sonra !
+de biri .
+dedi ve dedim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:47:45.662221 (2500)
+--------------------------------------------------
+Loss: 4.034068
+kımıldamadan olduğum :
+bir baktım satıcının .
+keman ... ne
+köyden : döndü
+kadar ali mi ?
+ve makamlar akşam
+... üzüntülü sabahattin .
+ben ne !
+bu çıkınca vardı .
+ne mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:49:05.945807 (3000)
+--------------------------------------------------
+Loss: 4.087822
+ne hapishane ?
+beni bunu ! ..
+... dedi .
+önüme : .
+diye vardı .
+bunlar diye manasız zor…
+ben cevap başlamıştı :
+parladı ilk ... .
+diye bir .
+fakat diye !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:50:27.890067 (3500)
+--------------------------------------------------
+Loss: 4.046491
+ne da geliyordu !
+bir daha !
+.. markopaşa çakıcı'nın ( : )
+... ben bu !
+bir geldi .
+ne olacak !
+yoksa beş evvel
+bu ... dedim
+ne arası hiç de
+ya ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:51:50.730337 (4000)
+--------------------------------------------------
+Loss: 4.127645
+gördün ( evine .
+peki dedi .
+gibi ortada bu ya de yanındaki beş ilişti
+sabahattin ve şey ! ..
+olan bu sonra
+sebebini belki on
+kendisini yan .
+sabahattin ali :
+olan bütün çok . ..
+! ... ali
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:53:36.885590 (500)
+--------------------------------------------------
+Loss: 4.060284
+bu dedim .
+duvarın pek kolundan .
+bütün bu için teşekkür bir
+bu bana yanında ?
+bana sebebini !
+fakat pek vardı .
+bir şey shakespeare'ler : ..
+bu bir şey yolunu cevap :
+de üzereydi .
+markopaşa yazıları ve ötekiler sabahattin .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:54:59.324892 (1000)
+--------------------------------------------------
+Loss: 4.075502
+ne hissettim ?
+ne .. ?
+bir ve sonra da .
+doğru iyi başladım .
+hiç ... haydi
+ve iyiyim hiç de
+hep yalnız doğru topu .
+bir olmaya bu yayıldı .
+birkaç ihtimal :
+ben : .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:56:22.264454 (1500)
+--------------------------------------------------
+Loss: 4.017142
+bu şey !
+bundan sonra .
+zaman gene bende
+hiçbir şey !
+bir bize .
+bunda fena hiç kapadı .
+ali bu da bir dişi .
+zaman evet ... fakat bir şey
+bey bir türlü .
+geçti ( .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:57:43.825076 (2000)
+--------------------------------------------------
+Loss: 4.093671
+bu sordum ... ... o
+tarafını gözlerinden .
+o kitap ?
+ben bir hep vardı .
+o zihnimden .
+ve şeyler .
+idi ve bu çıktığı !
+esnasında raftan :
+ben lira bir .
+gözlerini devam senelerden :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T19:59:04.888095 (2500)
+--------------------------------------------------
+Loss: 4.091845
+köye : dedi
+sonra yapraklarını bir .
+sonra türlü odanın
+ben bütün elindeki
+ne verdim ?
+dün akşam yolun ekim .
+... daha çok
+çok sevgili aliye
+söylemeyi ömürlü küçük
+aynı dün hiçbir de
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:00:25.534630 (3000)
+--------------------------------------------------
+Loss: 4.038482
+markopaşa yazıları ve ötekiler sabahattin
+fakat öyle .
+alibir ... bu !
+/ nasıl !
+ve bu odanın candarma
+tetkik bu bir ev :
+evet ... .
+beraber sesler yerini
+ve dedi .
+ta yazmak !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:01:47.675954 (3500)
+--------------------------------------------------
+Loss: 4.018817
+bir nitekim bastıran aldı .
+bir şey var
+ben de ali
+ilk beş cesaret
+sabahattin ali ( sürdü )
+gel ! ..
+çok sevgili aliye
+ali yarattığı .
+ona başladı .
+yataktan şey mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:03:08.455778 (4000)
+--------------------------------------------------
+Loss: 4.056125
+başını vardı :
+yüzünde ediyordu .
+ikinci paralarla ... beni !
+... dedi .
+sesle ve göre
+demek bana görüyorum !
+mihriye aldı yoktu :
+bir şey .
+... dedi ...
+ben her şey .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:04:55.022630 (500)
+--------------------------------------------------
+Loss: 3.933847
+ne karşısına dedi ?
+ne .. bu
+çok bir çay .
+o bunun için da
+bu kapadı .
+üstünden istanbul ne diye ?
+... ne diye
+diye cevap fena yanlarına
+bütün bu canım :
+takdim basım :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:06:14.855818 (1000)
+--------------------------------------------------
+Loss: 3.956990
+tekrar bir şey
+nasıl hesap adeta ? ..
+uzun şey ?
+mevcut mırıldandı !
+nasıl yarım tarlasına çiftler bir .
+zaman kendine kadar bu yok ...
+ben oğlum de
+genç acaba geçen
+ve her doğru cevap biraz sordu :
+şöyle mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:07:35.493108 (1500)
+--------------------------------------------------
+Loss: 3.989596
+üzereydi dedim .
+bir biraz bir sayısında !
+ve dedi .
+bu yakaladı .
+beri dedi .
+fakat şeyden tekrar .
+bir bilir da geçti
+aptal anlamıştım .
+ne .. !
+puder söylemeyi 1 olan bir .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:08:57.038886 (2000)
+--------------------------------------------------
+Loss: 4.036519
+1947 bu .
+oldun dedi .
+kendimi söylüyordunuz !
+ve bu bir öpmek !
+maria ... değil
+... bu yüz parmaklıklı dedi ...
+haydi ... o
+bütün ) ?
+fakat sonra şey metre bir .
+dedi ve .. ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:10:19.007689 (2500)
+--------------------------------------------------
+Loss: 4.025832
+bir telaş :
+bir yastığa ve bitti !
+markopaşa yazıları ve ötekiler sabahattin : ?
+odasındaki ... kasım !
+bir hiç kapalıydı !
+her mi beri ?
+ve bütün gazetesi bileyim :
+sene etti :
+bana bir şey kaldırıp bir : ve .
+evet ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:11:40.090718 (3000)
+--------------------------------------------------
+Loss: 4.086630
+biraz seviyorum !
+galiba : ... namazında bu demir duran
+fakat bir memuru
+bir sabahleyin gibi çalışıyorum
+diye zaman anladım .
+hiç ... öğleye
+filiz’in baban beri !
+bir tarihsiz !
+birinin parladı :
+ihtiyar ve bu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:13:01.599508 (3500)
+--------------------------------------------------
+Loss: 3.999838
+hiçbir zaman bende
+ben sonra bir
+başını gene tafsilat yoldan çeken :
+sonra sonra bu
+ne oturan bu kadar .
+ne ediyordu ?
+... fakat ne .
+dışarı sahibi :
+beni gittik :
+gün bir bu böyle .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:14:22.903191 (4000)
+--------------------------------------------------
+Loss: 4.050022
+fakat evet !
+bana bir şeyleri dün
+onu yemiş !
+yardım hiç oturarak bir
+değil gözlerimi !
+dört etmek :
+kaymak gözlerinin akşam .
+ellerini tasdik sonra yargıtay gitti .
+sırça onu olduğumu ?
+ben durup verdi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:16:07.241523 (500)
+--------------------------------------------------
+Loss: 3.981120
+bir yeri attı .
+/ bir .
+söz yayımlanan sokularak :
+kadar ne okuyup ? ..
+4 sordum .
+onu ali !
+bundan sonra .
+ve çocuğu ?
+4 ... kaldırıp gibi için bir .
+tutunarak bir şey
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:17:28.132264 (1000)
+--------------------------------------------------
+Loss: 3.972927
+çıkarıp vurdu .
+hiç ! ..
+fakat . ..
+bu kadar !
+ne uğraşan ?
+diye bir bakarak ] geçiyordu :
+fakat o zaman biraz kadar
+bir senede vardı .
+sonra bir bir .
+sonra kadın dedi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:18:48.354588 (1500)
+--------------------------------------------------
+Loss: 4.026142
+ve ne ?
+ben biraz .
+beni ne ?
+ve ne ya ..
+bir de basım bir .
+bu ne orkestranın kaldırdı :
+ali ön de
+ne de biliyorum !
+fakat fark ettim .
+belki bir var vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:20:11.261527 (2000)
+--------------------------------------------------
+Loss: 3.954007
+sevgili sedasız !
+yolunu şeylerin şeylerin
+fakat dedim .
+bir köprünün ve sesini hemen için gitti
+sıkıldı üzerine .
+bunu mecmua !
+çok sevgili .
+bu yakaladı .
+fakat geldim .
+... bana zaman bir kocan
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:21:32.361344 (2500)
+--------------------------------------------------
+Loss: 3.982243
+... dedi .
+pek bu :
+bir düşünceli bekliyordu .
+ve markopaşa yazıları : sabahattin
+burada . !
+mehmet olup .
+ve bir ediyordum
+... ne ?
+bu ve bir
+gelirse de adamın ki
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:22:54.078871 (3000)
+--------------------------------------------------
+Loss: 3.949404
+doğru türk veda fırladım .
+fakat aynen ..
+şu yüzüme başını döndü
+ben ! ..
+o kadar gün aliye’ciğim
+çok sevgili aliye
+eden bu bana .
+gözlerini beni üzerimde :
+ihtiyar eden aldı
+geceleri ? ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:24:14.400253 (3500)
+--------------------------------------------------
+Loss: 3.956388
+bu bir şeyler .
+şiirleri beri ... için
+o zaman bir
+ilk defa samimi
+puder gün uyuyamadım .
+bir başladığı 1 bana .
+evet ... !
+biri içinde oldu .
+da ihtimal ..
+bir et kadar bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:25:35.228128 (4000)
+--------------------------------------------------
+Loss: 3.963734
+bu duran sefer
+ettiğim etti !
+SENTENCE_START akşam ...
+ben de etmek markopaşa
+bir çağıracağım ben başka
+hiç sokaklarda !
+neden beni bu kadar
+almak kuruşa !
+markopaşa yazıları ve ötekiler sabahattin önemli ; hayretle ... ?
+markopaşa yazıları ve ötekiler sabahattin
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:27:23.163044 (500)
+--------------------------------------------------
+Loss: 3.975155
+öldü acaba ?
+işte o da
+çocuksun ... var
+bana ne !
+ayrı acaba çok ! ..
+fakat olmak dedi .
+bastıran bir geçiyordu .
+ben çıktık .
+ziyade miyim ?
+ruhumdan bir başladı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:28:45.233958 (1000)
+--------------------------------------------------
+Loss: 3.958422
+de olduğunu bir ben ve
+ne yarabbi !
+ve içinde oluyor
+ben kenarına kabul .
+haydi ... bana sekiz yengem ... ama
+bir düşündü ve ve
+ben resim hakikaten
+okuyup şuraya ?
+defa toplayarak bir bohçayı dalgın diyordu .
+bana öyleyse ben
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:30:06.463751 (1500)
+--------------------------------------------------
+Loss: 3.927158
+şey sahi bir ? .. .
+bir ikisi kadar acaba çok şey ! ..
+kadar dedi .
+orkestranın .. ?
+şey ! ..
+olması beklediniz !
+sebebini dedi .
+ne senin ? ..
+söylenmeye onun kadar oturuyorsunuz .
+acaba ne da vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:31:26.881357 (2000)
+--------------------------------------------------
+Loss: 3.917045
+kadın dedi .
+bunu durmadan bir
+sıra cevap !
+bir anlayışı kadar ... benim aliye’ciğim
+kadın o de ne sevmek ?
+bu ne .
+üçüncü birine olan bir sizi bir paketi
+benim masanın odasındaki ?
+bir şunlara… .
+maria bir bu hiç hastalığı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:32:49.659748 (2500)
+--------------------------------------------------
+Loss: 3.919485
+sevgili çoluk .
+elinde geçti :
+sonra yoksa lüzumlu
+bu söze : !
+... fakat ben biraz tabii gibi artık :
+sonra rast seçme .
+fabrikaya anlamıştım .
+biraz ne !
+bir zaman görünce
+diye doğru !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:34:10.205330 (3000)
+--------------------------------------------------
+Loss: 3.914427
+bir ulan vardı .
+sobayı temsiller :
+beni kızın yoktu .
+ben de iyi kucaklar ... ben
+evet ... dedi .
+ben de !
+kadın o da bir kucaklar
+adam : başladı
+üzüntülü kapıyı diğer da bu ve !
+birbirimizden pek tabii vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:35:31.941132 (3500)
+--------------------------------------------------
+Loss: 3.956462
+çok dalgın bir .
+evet ! ..
+nitekim hem her o akşam de evladım !
+sabahattin ali şey olan bu ki
+nasıl mırıldandı ?
+evet no ! ..
+bu yaz .
+ve her zaman
+bu ya ?
+ve ne / ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:36:52.123016 (4000)
+--------------------------------------------------
+Loss: 3.917671
+o zaman o
+böyleyim ! ..
+insanda ... eline !
+bir gün ?
+ben ! ..
+bana o zaman de
+bir bana yolunda
+o zaman çok türlü ifade .
+sokak ! ..
+gayet neden şey ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:38:36.966485 (500)
+--------------------------------------------------
+Loss: 3.921211
+kadar ilk bıraktım
+bunun kadar eder
+biraz sevgili sevgili
+biraz ne ?
+herkes ara :
+belki ... yok ...
+o zaman kadar yoldan
+bunun efendi 4 söyledim .
+sonra oradan ve .
+bu bana yerde
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:39:58.218902 (1000)
+--------------------------------------------------
+Loss: 3.874155
+attı ve bir .
+bir açıldı !
+bir sözüne mi
+bir ne öperim
+markopaşa yazıları ve ötekiler sabahattin
+o an ben
+bir boylu durdu
+bir ali !
+içlerinde ! ..
+bir 1998 !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:41:17.685480 (1500)
+--------------------------------------------------
+Loss: 3.898100
+ve mi ?
+bir gün bağırdım .
+fakat gittim .
+bari sen da öyküler
+ben gece ... ne
+tekrar anlaşılıyordu .
+bir senelerden vardı
+raif efendi var ve ... onlara bu .
+diye derken !
+bir yukarıdan vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:42:41.000083 (2000)
+--------------------------------------------------
+Loss: 3.926446
+ne diye gelirim !
+bana bende belli ben gitti .
+dair bir ne süzdü
+diye sallayarak diyor .
+bir ne defa .
+fakat fakat ne
+sonra lazımdı ve :
+o ve her de değildir ...
+halde dedi .
+da ne .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:44:03.210372 (2500)
+--------------------------------------------------
+Loss: 3.905431
+kaplı araba .
+birkaç birkaç gün der için
+bakalım beni .
+birinde ... ne tarafında !
+ben ben bir .
+ben ! ..
+ben de senin
+şimdiye da yavaşça efendi
+çoğu ; sonra
+ben ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:45:25.571218 (3000)
+--------------------------------------------------
+Loss: 3.866907
+diye makaleyi durdu .
+öldü dedi .
+ve çok toprak bir bakalım
+bana bir bekliyordu .
+kadın şimdiye kadar bir
+başımı daha ali
+ben ali'nin .
+ve böyle evvelki muhakkaktı
+bir biri sabahattin sonra bilmiyor diye dışarı cevap .
+bir çok ... verdiler
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:46:44.714992 (3500)
+--------------------------------------------------
+Loss: 3.882199
+... bu !
+teşekkür alıyordu .
+... dedi .
+fakat zaman .
+yalnızım ! ..
+her zaman zaman aliye
+fakat zaman oldu .
+çok sevgili aliye
+gördün yarım takip alıyor tane fakat bir
+müddet ekim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:48:06.038103 (4000)
+--------------------------------------------------
+Loss: 3.883240
+sen ... bu için için !
+sokaklara ! ..
+sahiden .. biraz ?
+ve ben fırladım .
+tuhaf bir !
+her sesler hiçbir
+.. bir diye
+çok daha bu ?
+ortasında çekip tane :
+bütün ? ve bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:49:52.593370 (500)
+--------------------------------------------------
+Loss: 3.902273
+tereddüt mırıldandı :
+yürüyor ! ..
+ve bu alçak
+diye bana bir
+gözlerini bir üstüne
+bir ne !
+ne diye tebessümle
+necla yanlışlık :
+fakat hasta o kadar ... bu .
+ağlamaya buldum .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:51:13.161912 (1000)
+--------------------------------------------------
+Loss: 3.843372
+daha de söylüyor
+ben ne .
+ve hasretle ?
+ve vermek !
+biraz verdi .
+ne kadar kadar ..
+... bu ömürlü ne .
+haberi ve efendi ihtiyar .
+böyle yanında rüzgârın başladık
+uzun mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:52:33.453185 (1500)
+--------------------------------------------------
+Loss: 3.880321
+... fakat bir beri dedi .
+... fakat bu takdim bir
+sizi uyanık gibi de
+ne kere ?
+... dedi .
+fakat fakat dedi .
+ne ya ?
+yüzünde verdi :
+bize sevgili ... dedi
+hem çok ... dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:53:53.731193 (2000)
+--------------------------------------------------
+Loss: 3.816665
+kadar çok elindeki için çıkacağım mi
+acaba o kadar .
+birdenbire ne !
+ne ilerideki ?
+olan bir şey !
+; dedi .
+bir filiz her de mahpus gittim
+... dedi .
+ve birdenbire bütün bey !
+; dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:55:14.553551 (2500)
+--------------------------------------------------
+Loss: 3.869419
+bana yürüyor .
+kadar sen dedi .
+fakat hemen diye yine bu kadar .
+yarın ali !
+hemen raif her
+bana dün dedi .
+baktım ve sonra
+fakat ediyordum .
+gibi her ali
+... ben bu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:56:36.254745 (3000)
+--------------------------------------------------
+Loss: 3.905558
+o için üzerinden onu hasretle
+çok sevgili aliye
+bir şey .
+ne dört durup bir dönüp .
+yarın hareket memnun şiiri .
+ne .. !
+ilave içeri gitti .
+kadar bu hafta bir mektep
+çok sevgili aliye
+beyaz metre bulunduğunu :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:57:58.743224 (3500)
+--------------------------------------------------
+Loss: 3.898396
+diğer yolculuğun .
+çok yıldan şey çocuk açıldı ?
+hiçbir şey !
+ve bu ömer
+ne yok ?
+ne üzgün ?
+ilk defa ve
+bu gün kadın oku ben
+çok yok .
+bilmem ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T20:59:20.787424 (4000)
+--------------------------------------------------
+Loss: 3.876013
+canım anlaşılıyordu .
+derhal söyledi .
+bir gün şey
+da üç ?
+bilir canım .
+vaat gel .
+şey bir .
+ya ! ..
+... fakat :
+üç senede sonra yol hayret önüne lira
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:01:05.539497 (500)
+--------------------------------------------------
+Loss: 3.809375
+gözlerini dergisinde tavırla
+fakat her olursa ... hiçbir
+evi orkestranın bir merak kızmama
+hayatı ve yüzüne .
+fakat o .
+evine ( .
+bu sırada .
+idi ve ve
+arasından bir burada düştü
+... dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:02:25.443639 (1000)
+--------------------------------------------------
+Loss: 3.842916
+bin sordum :
+çok sevgili aliye
+bir çekip bana zaman !
+sonra sırada yürüdüm .
+bu sırada ?
+ne diye :
+çok sevgili aliye
+ne kadar çok .
+daha bu ?
+bana gece açıldı evet
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:03:46.957523 (1500)
+--------------------------------------------------
+Loss: 3.828982
+bir bu kadar ?
+en ali’nin içinde aziz sallayarak bir bir için başını birkaç .
+kadın mi ?
+prag insanı .
+sırada bir sokakta
+ne da dün yazı
+yavaşça hastaneye vererek
+sesler için bana
+bu sırada ?
+olay ... bu başladılar
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:05:07.860207 (2000)
+--------------------------------------------------
+Loss: 3.786837
+bir fabrikaya de yazmak aman var .
+de küçük bir herr .
+o yürümeye .
+kadar sonra sevgili bunun !
+gibi kadar çok !
+gözleri o da yaşadığı .. !
+aliye sevgili aliye
+satıcı bu yazılan de
+o zaman o evet
+o da bir bir bir gün her .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:06:29.263591 (2500)
+--------------------------------------------------
+Loss: 3.831715
+de diye bir ederse
+1997 ! ..
+o zaman onu ... bir için :
+beş de da yürüdüm .
+hamdi andan .
+gibi yazdı ?
+raif ne burada iyiyim
+bir demir da değirmen ... !
+ve ortasından bir .
+sonra başladım .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:07:49.889353 (3000)
+--------------------------------------------------
+Loss: 3.858090
+olabilir yoktu .
+yakın : dedi .
+sonra bir zannetmem
+bu akşam kuyucaklı .
+ben de !
+acaba iki ?
+diye bu kadar kadar .
+halbuki o zaman
+.. kanal .
+bu kadar ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:09:12.500674 (3500)
+--------------------------------------------------
+Loss: 3.869461
+ya ! ..
+ben sabah :
+ben ! ..
+ben açtım .
+diye olduğum bir bir :
+raif soğuk zaman
+aynen bu !
+tekrar bağırdım :
+ben sevgili ?
+demek onun şey ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:10:33.388722 (4000)
+--------------------------------------------------
+Loss: 3.850631
+bir on .
+ben de torbayı dedi . dedi .
+sular hiçbir bütün şey
+bir müthiş .. ?
+bir / vardı .
+bir kahkaha bir .
+bir zaman istemiyorum .
+ve ben .
+bu da baktı .
+bu kâğıdı düştü .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:12:21.311632 (500)
+--------------------------------------------------
+Loss: 3.763761
+bu gibi et
+o akşam ne adrese ?
+ne zaman ?
+sizde de ... ben gibi .
+için o gün
+ben ! ..
+o dedi :
+bir müddet şey tetkik .
+ben candarmanın .
+pek o olan .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:13:41.664116 (1000)
+--------------------------------------------------
+Loss: 3.812488
+o da çok cevap gitti .
+kadın akşam baktı .
+başımı baktı .
+da takip bir .
+ve çok daha bir .
+bir bunları yakaladı .
+o zaman ?
+ben ! ..
+aynen bir içini doğru
+içeri raftan :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:15:02.951348 (1500)
+--------------------------------------------------
+Loss: 3.834244
+akşama başka derken
+... o da
+ben bakıyordu .
+bana çocuğu için
+onun akşam doğdu
+çok vardı .
+derhal kara gözlerinden
+on girdi sonra müsaade
+gelirim ... çekerek
+durgun nihayet .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:16:24.750751 (2000)
+--------------------------------------------------
+Loss: 3.810440
+ben de evde mi ?
+çıkan gitti bir çakırcalı
+ben o yakında çok
+gitti için .
+birkaç sonra ne yaşındaki
+yirmi birdenbire .. lazımdı !
+ne demek her
+belki daha değil .
+öğrendim. ne o
+bir sergide geldi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:17:46.157331 (2500)
+--------------------------------------------------
+Loss: 3.852071
+ve de açtı .
+yapmak yaptın bakıyorlardı
+öyleyse ! ..
+bu sonra hayır
+bir gün bana konya
+mektup yemekten bana
+yazık ... !
+bir şey bir görünüyordu .
+ara biraz .
+yavaşça işi yanıyordu .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:19:06.449765 (3000)
+--------------------------------------------------
+Loss: 3.836994
+hasta daha ; bu
+gene bir .
+kaz dönüp hayri :
+açıldı ! ..
+bastıran bir seneden vardı .
+belki yazdığı .
+ne ! ..
+yola bir buldum sonra cevap sayesinde başladı .
+kendisi bu .
+fakat bu toprak gördüğüm
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:20:25.529517 (3500)
+--------------------------------------------------
+Loss: 3.853505
+bu sırada sabahattin ali
+yatağın bir bir .
+sabahattin ali .
+ve musun ?
+fakat dedim .
+ne bunları şurada ?
+hanım olmayacağını :
+bir şiiri zaman
+ne de çıkacağım
+bir raftan :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:21:47.292971 (4000)
+--------------------------------------------------
+Loss: 3.871030
+ne istiyordu ?
+kuruşa ! ..
+sonra yüke :
+geçti : !
+yazı gördü .
+fakat hâlâ bir .
+ve tutarak .
+... dedi .
+doğru yaş ve yusuf dedi .
+fakat bir .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:23:33.434698 (500)
+--------------------------------------------------
+Loss: 3.761408
+derhal düşündüm .
+... bu süngü o ve !
+artık bir kadın
+canım tebessümle !
+şüphe bir şey düşündüm .
+bütün bunlara bir ...
+bir şey !
+oturduğu beni .
+hâlâ onun !
+eşi ve anlamıştım : mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:24:51.693086 (1000)
+--------------------------------------------------
+Loss: 3.765708
+nasıl nasıl yazı bende !
+o yol yok ...
+diye ben .
+durdu bu doğru
+her şey !
+bir zaman .
+aralık de sene bir
+bir merakla !
+ileri ! ..
+ki ( ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:26:13.750626 (1500)
+--------------------------------------------------
+Loss: 3.827031
+olan her şey .
+çok sevgili üzerinde
+bu vardı ...
+diye yapan !
+beni odada gördü
+koluma yalnız :
+kadın kadın .
+hasta onu ara
+üzerinde gibi .
+birkaç de içine da ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:27:34.608298 (2000)
+--------------------------------------------------
+Loss: 3.769168
+bütün karşı bir şey değilim
+ne olacak ?
+ne galiba !
+bir parça !
+ama pek başımdan da
+sonra kadar gün sırada kadının
+bütün renkli kurmak .
+o zaman ?
+para başını şiirleri :
+sonra o kadar başka bir hastalığı ihtiyar bin fakat de :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:28:58.182570 (2500)
+--------------------------------------------------
+Loss: 3.750586
+diz bu kadar .
+biri arasında ( küçük ) vardı .
+şeyi o da bir hemen . ve sonra bütün
+pek hakikaten yoktu .
+seneden dedi .
+akşam muamelesi her şey
+hakikaten her oldum
+büyük ve bunun .
+fakat dedi .
+ben metin açıldı ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:30:20.669728 (3000)
+--------------------------------------------------
+Loss: 3.795564
+bana sesi alakadar ... vardı !
+sonra bir birbiri dünya )
+bitti kadar saçlarını
+birkaç gün vardı .
+de fırladım .
+oturdum ve içinde
+beni ettim .
+bir müddet .
+bu sırada ?
+var dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:31:42.567492 (3500)
+--------------------------------------------------
+Loss: 3.797859
+bir zavallı vererek !
+diye ettim .
+çok : .
+markopaşa yazıları ve ötekiler sabahattin !
+filiz’in çok beni ettim .
+kapıyı çakırcalı etti
+bu sırada ?
+siz de genç ...
+bana otele ihtimal kumaş .
+çok yirmi şarap ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:33:04.290383 (4000)
+--------------------------------------------------
+Loss: 3.796397
+bu sırada ?
+sevgili ne ...
+acaba ? ..
+başka burada olacak de için !
+yerde herhalde ?
+bana bu bana maria samimi
+markopaşa yazıları ve ötekiler sabahattin
+ne gibi ?
+de çok ve anlamıştım .
+gözlerini sesimi gün bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:34:47.121543 (500)
+--------------------------------------------------
+Loss: 3.793805
+her şey .
+... dedi .
+gramofon üzerinden .
+ve o sonra dedi .
+değirmenin ilk .
+bir içinde :
+no : istanbul
+ben mısınız ?
+ve dedi .
+şimdilik bu için .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:36:07.729446 (1000)
+--------------------------------------------------
+Loss: 3.736019
+ve evet .
+belki fakat şeyden de
+bu işi ...
+ilk bilir :
+burada acele yaşadığı tarafından pek derhal gibi yürüyen geçiyordu :
+teşekkür kim :
+yerde yine yüzünü !
+de ali'nin dedi .
+halde bu bana
+o ben fakat !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:37:27.294623 (1500)
+--------------------------------------------------
+Loss: 3.767870
+bu bir zaman çevirip kadar bir yandan .
+bir geçen nurettin tanıdım
+ona yok !
+toplayarak birbirine iskemle :
+ara sıra :
+binlerce başımı bir .
+arkadaşım halde bir kadın
+söz gözlerinden !
+bu bir düştü
+bir tasarımı :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:38:48.494392 (2000)
+--------------------------------------------------
+Loss: 3.782091
+çatarak için sokaklarda için ediyorum .
+sabahattin ali :
+ne diye yollarım ?
+ağaçların tozluklu mı
+bu gün öteki
+şeyden ! ..
+fakat ve bu sefer ..
+markopaşa yazıları ve ötekiler sabahattin öykülerinde
+sabahattin ali ve yaptı
+daha zaman ben
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:40:09.666612 (2500)
+--------------------------------------------------
+Loss: 3.785555
+çok sevgili sevgili
+o da o .
+olsa ve giderken
+bir zaman !
+gidip zaman köy değil
+ve fakat bir
+başka anlaşılıyordu . .
+fakat hızlı miydi ?
+diye ekim .
+çakıcı'nın ilk .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:41:32.740327 (3000)
+--------------------------------------------------
+Loss: 3.754436
+ve bu istediğini vardı .
+ne etmeyin ?
+da sordu :
+zavallı oturuyorsunuz ?
+maria izmir’e iç
+bana olacağını .
+... ne lirik ? ..
+o kadar de
+ben de saati ...
+uyandınız için ... dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:42:54.858447 (3500)
+--------------------------------------------------
+Loss: 3.753757
+çok her şey
+başı uzunca :
+çok sevgili aliye
+bu sırada kadar
+bu sonra sevgili bu
+ama ! ..
+herkesin ! ..
+çok sevgili aliye
+çok arasında bir daha ederek .
+bir ziyaret zaman çok geliyor
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:44:16.483453 (4000)
+--------------------------------------------------
+Loss: 3.797875
+fakat pencere madonna ( metin )
+hep bu ve bıraktım
+ya ! ..
+ve diye . .
+olduğunu zaman taşıyan ?
+ben dedi .
+ben şey ne geçiyordu ?
+ben de arkadaşlar !
+bir çekerek de !
+onun pencerelerin başına hastanın bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:46:04.205616 (500)
+--------------------------------------------------
+Loss: 3.736652
+bu bana bir aşağı .
+berlin'de mı ?
+çok sevgili aliye
+... dedi .
+çok sevgili aliye
+değirmen ( ! .
+ederim ! ..
+bile ? ..
+bu sefer onu tutunarak için hissediyordum .
+bakıyordu ... karısına
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:47:23.480701 (1000)
+--------------------------------------------------
+Loss: 3.746478
+bu candarmanın mu ?
+bugün ali !
+sonra markopaşa sonra
+bugün mi ?
+merakla için daha .
+içerde sonra bulunduğu öyleyse kadar temin !
+başka baktı .
+olabilir .. için
+kadar dedi .
+sonra bir yerimden fazla tasarımı :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:48:44.842440 (1500)
+--------------------------------------------------
+Loss: 3.723115
+diye ; kısmını .
+bu sefer de
+ne şakır ! ..
+ben başlamıştı .
+ne nasılsın ?
+şimdi değil sabahları
+bazan bu kadar açtı .
+kadar fakat ne ...
+nedense bu sırada !
+olmuştu ... bile
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:50:05.509439 (2000)
+--------------------------------------------------
+Loss: 3.725542
+bu içinde bir daha hemen ... fakat hava :
+bu sırada karar
+... kıza bu fakat kadar
+çok verdi .
+yüzünde de raif
+evvelki mektup belki ..
+de her şey !
+biraz her zaman çift toprak hızla
+belki de dedim .
+hakikaten sonra sokağa :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:51:27.976620 (2500)
+--------------------------------------------------
+Loss: 3.757254
+ne yok ? ..
+ne de bir :
+dört gün o sonra ilk defa vardı
+bir daha .
+ne da onun cevap ?
+bu bir .
+ilk bu zaman için
+acaba ? de ön ?
+bu sefer .
+fakat ne sıkış !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:52:47.570609 (3000)
+--------------------------------------------------
+Loss: 3.759000
+ne andan ? .
+yavaş namazında yayıldı .
+selam yalnızım !
+ne olan ?
+ben bir adımlarla an daha .
+siz de hesap !
+hâlâ ! .
+ismi yavaş :
+bu şey .
+o daha de ne olarak olduğu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:54:10.218659 (3500)
+--------------------------------------------------
+Loss: 3.736121
+ben de vardır .
+... dedi .
+yüz sıkıntısı sallanan . ..
+... dedi .
+3 yatak de öyküler !
+ki o gün
+onun mı ?
+... dedi .
+milletvekili biraz .
+alır.kız için ben hayretle ... :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:55:31.420157 (4000)
+--------------------------------------------------
+Loss: 3.729687
+o kadar sedasız çok üzerinde .
+çok ona uzaklaştı .
+kulağına bekledi :
+küçük bir kaldırıp lazımdı .
+çok birdenbire memlekete
+daha diye !
+teşekkür razı : !
+sonra çok ... ...
+çok sevgili aliye
+bir çok ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:57:17.273854 (500)
+--------------------------------------------------
+Loss: 3.737365
+o ... dedi .
+o zaman de
+ormanın o .
+efendim ... bu selametle !
+... dedi .
+... dedi .
+adam bana ederse
+ben fırladım .
+ne ne sevmek ?
+o da ne .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:58:37.332276 (1000)
+--------------------------------------------------
+Loss: 3.712846
+ne oturağa !
+raif zaman eliyle
+bu nikâh bana elde ?
+acaba ? ..
+kitap ... !
+derhal ve ah bir
+bana gitti bütün
+tekrar dışarı mahkemelerde
+... ne :
+sonra sonra çocuksun :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T21:59:57.928571 (1500)
+--------------------------------------------------
+Loss: 3.733436
+fakat o gün ne oğul ?
+genç sordu :
+sonra uzunca .
+zaman bir ne
+hasta gözlerini halde .
+birkaç şunu :
+fakat her hemen
+derhal uzaktan duruyorsun !
+siz ederim !
+aşağı dedim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:01:18.718914 (2000)
+--------------------------------------------------
+Loss: 3.723334
+ne kadar ne aliye
+sözlerime bir çok perdeleri bana
+bu kadar !
+ve sordu :
+fakat ne kadar
+günün bildiğin gibi .
+ve duran .
+senelerden beri son
+ali bir 2008
+çiftler şöyle ve !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:02:42.263742 (2500)
+--------------------------------------------------
+Loss: 3.703102
+de böyle bir şikâyet
+markopaşa yazıları ve ötekiler sabahattin üstünden
+evladım ve galiba !
+bir sordu :
+sual için ! ..
+beri bir memnundu
+üstünde ! ..
+aldım : ?
+bir düştü .
+bir yuva ... !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:04:03.625973 (3000)
+--------------------------------------------------
+Loss: 3.765729
+kendisi de ? ..
+tekrar ne memleketi
+kadın hiç .
+yalnız küçük bir
+o ne olacak ?
+hâlâ çevirdi .
+tekrar verdi .
+kadar ben de beni idi ve her şey sebebini ...
+ne istedin de ne o alıp
+de : dedi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:05:24.982832 (3500)
+--------------------------------------------------
+Loss: 3.750446
+ne .. !
+de bir ali
+sevgilin realist zamanlar
+sevgilim ( 1997 ?
+o kadar ; ali
+sevgili bir ama
+meşhur bir yatakta
+üzereydi garip :
+; bir şey ettim
+fakat ben ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:06:46.309170 (4000)
+--------------------------------------------------
+Loss: 3.733046
+esnasında dedi .
+merakla bir ?
+ve dedi .
+daha ne döndü ?
+bu dedi .
+herhalde bu diye
+ona giderken bir şey sordunuz !
+türlü işte ...
+bu ne işte gitti zaman !
+çok dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:08:31.864455 (500)
+--------------------------------------------------
+Loss: 3.698023
+nasıl ... ediyordu
+ve sonra hey ?
+bize olmayan bir sırada vardı .
+sonra asıl icap
+ince için : dedi
+ve dedi .
+konya vardı .
+öykülerin gibi mırıldandı ve . .
+üstünden kendime ümidim hafif için
+ve diye !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:09:54.009845 (1000)
+--------------------------------------------------
+Loss: 3.710569
+karşı fark değil tekrar sonra ne
+bu bulmak ?
+bir salladı .
+nedir ? ..
+... ne kapıyı ?
+çok sevgili aliye
+bir bu üzerinden şey !
+sabahattin ali .
+ali ! .
+yavaş yavaş :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:11:12.157971 (1500)
+--------------------------------------------------
+Loss: 3.702474
+... dedim .
+insan adam da :
+dün dedim .
+ne temsiller ?
+bir mi ile !
+de sırada dedim
+bir akşam 4 gelecek ... zengin ... bir çaydanlık ...
+ne yani gibi ?
+fakat akşam ki
+ali 3 ... dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:12:33.023428 (2000)
+--------------------------------------------------
+Loss: 3.725837
+sen bu .
+olacak ilk kadar ancak ve nedense baban
+gibi gösterdi .
+raif ... bu sallanan için ?
+bir şey ne oğul ?
+bir okudum .
+mantosunu yayıldı .
+o da bir bir çıkan hatırladım
+ve onu .
+başını tuttum :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:13:55.282771 (2500)
+--------------------------------------------------
+Loss: 3.720254
+iyiyim ! ..
+ne vermiş yayımlanan ! ..
+yolculuğun mi ?
+evet ( ! ..
+diye bir bir lüzum vardı .
+; olmalı !
+şehrin ! bir dedi .
+ne yakaladı ?
+bir çok :
+bir gün bir evvel !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:15:16.146662 (3000)
+--------------------------------------------------
+Loss: 3.718555
+ne bu dedi .
+markopaşa yazıları ve ötekiler sabahattin
+fakat aynı !
+bir sordunuz canım
+neden ettiğim ?
+icap tahammül bir defa
+biraz sonra oturdu .
+tane başlamıştı .
+o daha çok etti .
+dedi ve .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:16:39.461591 (3500)
+--------------------------------------------------
+Loss: 3.720480
+ve çok .
+seçme yarısından ( buyurun )
+bir gözlerini kamyon da
+ben başka bir
+ben fakat biraz .
+itibaren bir kadın
+hemen böyle basit bir şey
+olanları dedi .
+yere mi :
+bunun için olduğunu ilk şeytan gördüm
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:17:59.233486 (4000)
+--------------------------------------------------
+Loss: 3.743443
+diye vardı .
+s. ali sevgili bu
+terk ilk adım de üst
+sonra daha sessiz :
+çok sevgili aliye
+bu yeni değil
+bir zaman gibi elindeki aliye’ciğim
+hakkı bir fakat dedim .
+çok sevgili aliye
+edebiyatı 1997 ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:19:45.132547 (500)
+--------------------------------------------------
+Loss: 3.675504
+; dedi .
+hele ki ali
+ne kadın !
+ve dedi .
+fakat ne kadar ; bu kadar ... ne .
+çok sevgili aliye
+kadar dedi .
+çok sevgili aliye
+o kadar zaman
+sergideki mesela her memnun değil
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:21:05.524346 (1000)
+--------------------------------------------------
+Loss: 3.709340
+bunları gelince için birkaç söyle no : uzun sonlarında !
+çok sevgili aliye
+bütün ali kadar !
+biraz sefer hemen ?
+türk hapishane ! ..
+bu sefer bu
+yarattığı aşağıya ali
+saçlarını sırada bu
+markopaşa yazıları ve ötekiler sabahattin bu sıra başladı .
+bu sustum .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:22:25.834661 (1500)
+--------------------------------------------------
+Loss: 3.689494
+sabahattin ali ... .
+beklediniz gibi ve
+bir kadar zaman gibi attı .
+bu ... bana uzun ben
+bu sefer !
+sonra olan soluk uzattı
+ben de vermeden resmi :
+bir bana ... sonra bana
+bilir başka bir !
+mektuplar silkti için
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:23:47.138308 (2000)
+--------------------------------------------------
+Loss: 3.686395
+onu ne yaptım ?
+öğleye ben sonra
+fakat da konya
+sonra birkaç onlar halde doğru ...
+sabahattin ali .
+daha bu :
+bir ve rastgele benziyordu .
+birkaç doğru bir teşekkür olduğunu sabah
+gibi gördüm .
+hiç bekledi ...
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:25:06.813186 (2500)
+--------------------------------------------------
+Loss: 3.693459
+her diğer .
+siz diye .
+diye dedi .
+oğul dedim .
+ben ben de derin ve .
+ben o yerinde
+fakat dedi .
+telefon istiyordu .
+ben onun kapıyı ertesi görünüyordu
+yeni cevap :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:26:27.671223 (3000)
+--------------------------------------------------
+Loss: 3.709293
+bu sefer bir dönüp
+çok sevgili aliye
+beni nasılsın !
+o da sefer ; çok sevgili dedim .
+markopaşa yazıları ve ötekiler sabahattin
+gelen ister başladı
+o zaman ?
+biraz bir yok
+akşam yemeğe bilir bana
+bana kendine !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:27:49.782466 (3500)
+--------------------------------------------------
+Loss: 3.700078
+gün : ..
+şey ! ..
+aldığı benden yazarsın .
+ve markopaşa hele ) sabahattin ) .
+tahmin mi ?
+genç şey ! ..
+diye içi .
+bıraktı : ali
+evet ! ..
+çok sevgili .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:29:10.163151 (4000)
+--------------------------------------------------
+Loss: 3.700281
+yüzlerce görüyordum hastaneye yazarsın .
+bir dedi .
+ya ... ! ..
+adam eski üzgün bir .
+tekrar başladılar .
+onun raif ağzından bir
+kadın sonra yok
+bu allahaısmarladık ... o
+o odanın da vermeden
+aman ... tabii ! bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:30:57.576439 (500)
+--------------------------------------------------
+Loss: 3.698737
+bunu ki !
+bu rağmen kadar :
+sonra ne dedi
+kadar sonra bir müddet .
+fena vardı .
+bu olmak ...
+bu haftalık zaman eden
+bana mümkün bunların döndü .
+ne bana hakikaten ?
+ediyorum ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:32:18.940890 (1000)
+--------------------------------------------------
+Loss: 3.692603
+... raif !
+sıcak titreyerek ederek :
+yakalayarak tasavvur pek al bakarak :
+biraz doğru soluya ilk :
+çocuk kitabı beraber :
+başka bir :
+masanın birden seyit
+apartman doğru cevap : :
+çocuk uyuyamadım .
+müsaade ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:33:38.108821 (1500)
+--------------------------------------------------
+Loss: 3.684379
+tanıyor şiir şirin mı ?
+haydi çok de
+her ikimiz de
+hasta cevap .
+daha akşam dedi .
+ben mini var .
+ki o da bir liradan evladım
+an var .
+erkek yani ilk
+bir yapmıştır : .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:34:59.277778 (2000)
+--------------------------------------------------
+Loss: 3.723858
+uzunca resimde )
+fakat peki sonra
+cevap mektup yüreğim bir tasavvur
+( : )
+ara sıra ... ölen
+raif bana kadın
+bey rast : çok
+sonra dedi .
+sonra sazı aldı ve
+bir da verdiğim 27 .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:36:23.091181 (2500)
+--------------------------------------------------
+Loss: 3.719192
+fakat sonra ve hissettim :
+bana bir .
+hakikaten ( : .
+bir böyle edip puder
+bir başlayan sonra
+de bir ne
+birdenbire ben bir beri yılları ve bir
+alisabahattin bütün ali
+otuz şiirleri :
+ortasında başladı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:37:43.274659 (3000)
+--------------------------------------------------
+Loss: 3.698539
+kadar her azıcık !
+sonra ... birdenbire ... ve dedi .
+tasarımı dedi .
+bir müddet müddet
+diye ... fakat
+sabahattin ali !
+bütün musun ?
+ara sıra :
+ifade birkaç .
+bir dedim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:39:03.650676 (3500)
+--------------------------------------------------
+Loss: 3.686960
+ikinci bir : dedi .
+o zaman bir burası ... kaldım !
+ben sağ o .
+ve o ?
+satıcının hiç .
+senin ve ?
+kadar çok .
+bir sesle çıkarak birbirimize sustum ... nereye ?
+tabloyu bir !
+o zaman sevgili !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:40:23.500294 (4000)
+--------------------------------------------------
+Loss: 3.686402
+ben artık o
+yüzüme on karşı yatakta ;
+hem de ne istiyorum ?
+çok sevgili aliye
+bir kahkaha ; bir .
+sırtını süzüyordu .
+önümde pek !
+gene bekler !
+aldı ben .
+sokağın sevgili yüzümü bu ;
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:42:07.818927 (500)
+--------------------------------------------------
+Loss: 3.701559
+de çeşit yaşlı yoktu .
+fark ettim .
+başımı musunuz ?
+bir yalnız !
+bir yürüdüm ... eski yok
+belki el ! .
+neden ilişti ?
+ya ! ..
+... ne raif için bu
+bu kadar .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:43:29.349074 (1000)
+--------------------------------------------------
+Loss: 3.702567
+daha kaz verdi .
+halbuki o ; ; olması !
+bu istedim .
+için ... .
+bir başını gün
+bir oh !
+ben bu :
+üstünden birbirimize yazacak ben bu ?
+evvela .. ?
+sonra hanım kaldırdı :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:44:53.456985 (1500)
+--------------------------------------------------
+Loss: 3.662531
+tam bu sırada
+uzun akşam çömelerek !
+bu odamın cevap adam bir sokağa soyduğunu ... kadar söylerken buradan tercih .
+canınız ... .
+bu ... dedi sonra
+diye ben .
+bir gün bunun fırladım .
+şey bir ?
+babam gibi de o :
+kolunu zamandan ve ben ve
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:46:13.970219 (2000)
+--------------------------------------------------
+Loss: 3.687059
+o zaman mı ?
+ilk defa çatarak temas
+s. ali ( çekti ) bir zaman
+de şey .
+sevgilim ( önü ... yataktan ?
+ne bana !
+bir an mi ?
+bütün bu ... gibi .
+ali bana :
+ileri ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:47:34.187940 (2500)
+--------------------------------------------------
+Loss: 3.713000
+bütün benziyordu !
+ayak olmak doğru piyanodaki kadar .
+daha ne o
+konya canım ki
+fakat zamankinden !
+ne bu ?
+ayak en !
+ne fakat tarlasına insanı .
+otele bir sürdü ve olmuştu .
+raif ilk ...
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:48:55.286592 (3000)
+--------------------------------------------------
+Loss: 3.685863
+o da gün oh
+ne beri ?
+bana sonra olan ormandan vardı .
+bu sırada içeri .
+ben müzisyenlerden söylüyor :
+ne sayı ?
+bir gün değil
+tercüme çok bir açtı ve :
+ikimiz çok daha !
+alır.kız gibi yok !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:50:15.785124 (3500)
+--------------------------------------------------
+Loss: 3.667488
+seni söyleyeyim :
+sedasız yürüdü ...
+sizi her !
+bir musunuz ?
+ne yastığa sustu !
+bir hiç .
+diye baktı .
+ne büsbütün !
+mi şaka baba !
+ne çakıcı'nın ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:51:37.299573 (4000)
+--------------------------------------------------
+Loss: 3.694790
+diye : gün
+diye biz .
+bu daha sırada ?
+seni oturdu .
+küçük saati gün
+daha gün dedi .
+benim mi ?
+ben de yanıyordu .
+bu tuhaf bir fena :
+bu akşam yanında
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:53:22.717768 (500)
+--------------------------------------------------
+Loss: 3.697050
+hâlâ oldular .
+sen ali !
+tasarımı yoktu .
+fakat ... o doğru günlerce ... şurada
+oradaki vurdu ... ...
+uyandınız bir .
+yavaşça yakamı öteki
+o zaman ne
+insanlara yıldız kadar !
+çok sevgili ne gözlerim için o vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:54:46.249776 (1000)
+--------------------------------------------------
+Loss: 3.674998
+bir bana anlamıştım
+markopaşa yazıları ve ötekiler sabahattin
+bir : dedi
+bir resmi duran kadar akşam münasebet yavaşça
+kadar çok kalktı .
+idare hüseyin .
+fakat dedi .
+ve evet meselesi
+çok ... dedi .
+çok ona bir fırladım .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:56:07.644581 (1500)
+--------------------------------------------------
+Loss: 3.669510
+tekrar birçok .
+paketi vardı .
+hayatı nisbetinde :
+bir bana aliye
+biraz beni kadar
+birkaç da ilk .
+bana ediyordum .
+bir diyordu .
+sokağın bu içti
+ve çok üzerine bir realist görmeye
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:57:27.260143 (2000)
+--------------------------------------------------
+Loss: 3.702440
+bir hastanın :
+hatta yanımdaki ol
+çok sevgili aliye
+fakat akşam başladılar !
+öğleye kadar :
+ilk defa topladım ve
+sevgili erkek !
+fakat bir eve ilişti
+bu gibi tekrar
+gün genç bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T22:58:48.578065 (2500)
+--------------------------------------------------
+Loss: 3.676312
+ve bana cevap temin akşam başını
+iki pencerelerin otele vardı .
+... evet ... o
+bu ve sırada
+daha ne sanki ?
+gramofon tavrı vaziyette vardı
+ne aptal bir anlıyorum ... ve gün bir oradaki istiyorum
+ben başını kendime odamın onlara !
+ve daha çok alman ve aydınlık bir oldu .
+bir dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:00:10.952243 (3000)
+--------------------------------------------------
+Loss: 3.661105
+iki iki metin vardı .
+kadın ali :
+ya ! ..
+1 bana tarihi .
+bu vuran değildi
+markopaşa yazıları ve ötekiler sabahattin sayısında .
+de sevgili o
+markopaşa yazıları ve ötekiler sabahattin : için markopaşa
+ben de benim
+ara sıra devam uzatarak :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:01:31.272759 (3500)
+--------------------------------------------------
+Loss: 3.721007
+eski birkaç benziyordu
+yanına geçiyordu .
+eski mi beyaz .
+sabahattin ali : kadın
+yanındaki bekledi ve
+diye ... fakat fakat
+hemen genç :
+beyaz tarla sıcak defa nereye
+bu sırada seviyorsun için
+her şey !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:02:52.166903 (4000)
+--------------------------------------------------
+Loss: 3.691766
+için bir gün efendim
+işte yarın başlamıştım ... olduğu !
+sedire gibi kurulan şaşırttı
+ne daha ne .
+bu neden ben no gibi ! ..
+bir mü alarak ?
+ne bir !
+bir idi. da
+yürüyen 2003 ! ..
+ve çömelerek ovası’nda olmaz
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:04:36.785960 (500)
+--------------------------------------------------
+Loss: 3.675519
+sonra akşam bir doğan !
+ama bütün güneş
+bir kaymak mektubun baktı .
+ne bir mesut yapayım ?
+ve ben .
+fakat daha ne .
+söylerken birden !
+bu sırada kadar bir
+bir bir çaydanlığı .
+bana kadar çok ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:05:58.608573 (1000)
+--------------------------------------------------
+Loss: 3.708288
+ben tarihsiz bütün !
+evet mi ?
+fakat sonra ?
+en ve hemen
+çocuk sürdü .
+için müddet .
+o da şeyler ve !
+ilave benim ki
+galiba canım ... bana
+ne seksen ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:07:21.451975 (1500)
+--------------------------------------------------
+Loss: 3.647592
+çömelerek oturdum .
+bir müddet :
+bu sefer ali
+büyük ve ali
+diye altında söyledim .
+bütün ve ali’nin
+yarım beş bir muhakkak
+sert bir karısı
+ve ile şurada
+otomobil gibi :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:08:40.327318 (2000)
+--------------------------------------------------
+Loss: 3.653384
+yuvarlak ne ve ali !
+içi saçlarını dedi .
+yazık ! ..
+kadın dedi .
+bir akşam kadar .
+verdim ... !
+var bu !
+daha biraz verdi :
+yapmak dedi .
+... dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:10:02.891644 (2500)
+--------------------------------------------------
+Loss: 3.640525
+bu sırada .
+odanın o !
+çok sevgili .
+sen beni zavallı attı ?
+fakat sabahattin ali
+bu olmadığı ... benim ona
+ne sanki ?
+bu bunlara s.
+daha ne halde ?
+kadın dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:11:23.554223 (3000)
+--------------------------------------------------
+Loss: 3.649024
+iyiyim ! ..
+fakat çatarak !
+yanlışlık ki !
+ne gitmek ?
+bir şey bana .
+ya ! ..
+biraz tasarımı ve nasıl !
+yere baktım .
+raif ... bu ben raif !
+bu önüne .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:12:43.708246 (3500)
+--------------------------------------------------
+Loss: 3.680637
+diye ve dedi .
+ne girdi ?
+... sonra bir dedi .
+birbirimize bu kadar tablosu diye ?
+sana mecmua ben .
+ne değildir ?
+ve çıkarıp ..
+bir oh !
+şiir henüz .
+resmi peki bu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:14:05.133241 (4000)
+--------------------------------------------------
+Loss: 3.659083
+tekrar halde :
+belki de ne
+ben de .
+şey ! ..
+ne parası ?
+... sırada ruhumdan ... baktı
+ve ben kızmama
+olmadığı beni başladılar .
+sonra raif .
+vermedi lafı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:15:49.058926 (500)
+--------------------------------------------------
+Loss: 3.659480
+o bir zaman bundan gibi değil
+ve fakat bana gidiyor zaman !
+ne 25 !
+bana şikâyet sokularak
+bu sırada değil
+tasavvur gelirim ... ne italya'ya
+bu koşarak yayınları sonra başladı .
+o zaman yatakta ve ! ..
+ve onu zaman
+o zaman ilişti .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:17:12.875644 (1000)
+--------------------------------------------------
+Loss: 3.626138
+gibi sen ayrı bana
+daha akşam romanların ne
+cesaret ki o
+de çok defa dedim .
+de müddet dedi .
+markopaşa yazıları ve ötekiler sabahattin
+benden kızmama !
+herhalde yapmak adaşım
+ne kadar ne zahmet ?
+diye : ha
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:18:32.900121 (1500)
+--------------------------------------------------
+Loss: 3.668889
+için açtı .
+bir o kadar öteki o :
+bu neyse için gayet gördüm .
+bir sıkıntılı kadar açtı .
+için yürüdü bu
+bir hikâyesi vardı .
+bir zaman insanın günlerde ben buraya gibiydi .
+bu sırada bir bir
+sen de bir yeni dolaştım
+yüzüne baktım .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:19:51.367769 (2000)
+--------------------------------------------------
+Loss: 3.670929
+diye olmuş dedi .
+çok sevgili aliye
+ben nasılsın ?
+ali dedi .
+ormandan böyle ve vardı .
+gibi nerede ?
+bir dedi .
+elleriyle da gözleriyle yerini : sabahattin
+sevgili çağırırsan açtı .
+bir sıktı vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:21:09.893675 (2500)
+--------------------------------------------------
+Loss: 3.675091
+penceredeki halde çok beraber
+biraz daha biraz avaz et
+markopaşa yazıları ve ötekiler sabahattin
+hareket gelmişti ?
+herhangi bir şey yok vardı
+ve herhangi bir şey önüne !
+ben gittim .
+ne evet ?
+de daha çok
+aynı geçiyordu .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:22:32.723897 (3000)
+--------------------------------------------------
+Loss: 3.683474
+iki : ben
+bir daha !
+vaka bir mi şey ? ..
+ne de ! ..
+çocuk de dikerek bir
+romanları ! ..
+yüzlerce mektebin ?
+yola alisabahattin bu hal
+alisabahattin ali kadın ; bu
+birkaç yalnız kadar uzatarak :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:23:56.608111 (3500)
+--------------------------------------------------
+Loss: 3.674356
+... evet ... :
+markopaşa yazıları ve ötekiler sabahattin
+onu bu yaptı
+iki yenişehir de
+lapası için olarak
+şey ! ..
+başka bir söyledi .
+önüne üç !
+niçin fakat lazımdı .
+ilk vardı :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:25:19.361447 (4000)
+--------------------------------------------------
+Loss: 3.695133
+aşk haftalık müddet söylerken de
+bu vakit filiz
+fakat için gibi de
+sonra ; sevgili benim
+yok o ki
+; evet yüzüne .
+bir dedi .
+diz arasından başka :
+bana kitap filiz sonra
+ve ise mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:27:05.493878 (500)
+--------------------------------------------------
+Loss: 3.647182
+ali bir geldim
+gidiyorsun bu gördüm .
+müzik sonra o
+bir etrafında !
+kalan ! ..
+ne vardır söze vardık için
+bir müddet yedi .
+ne yarı ?
+hafif bir :
+pek ? .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:28:26.773029 (1000)
+--------------------------------------------------
+Loss: 3.650623
+... dikkat tekrar : ... yenişehir !
+devam türlü :
+ne mi 1 ?
+bir dedi .
+bir ali mi ... nedir ?
+yüz üzgün için :
+bunlara dedi .
+çocuk beş kadar bir !
+kadın şey hiç
+kadına sarf vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:29:47.606577 (1500)
+--------------------------------------------------
+Loss: 3.679348
+delikanlı ! ..
+sevgili beri !
+duran şakır ve üçüncü
+yeni ormanları taş
+idris bir makamında sokaklarda doğru bilmem gibi
+bir yaşadığı .
+ismi makaleyi .
+lafı kaldırdı :
+kaz biraz çok resmi bir !
+çok için !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:31:08.631031 (2000)
+--------------------------------------------------
+Loss: 3.673397
+gene ederek :
+şiir ile !
+fakat her sırada ali
+ben ! ..
+ne salladı !
+... sonra fakat bir
+ve kalktım :
+belki de bu !
+ve ben !
+birine gözleri kadar maria'nın
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:32:29.777396 (2500)
+--------------------------------------------------
+Loss: 3.688399
+ne miydiniz ?
+belki kadar demek
+diye için .
+ve bir sarhoş ... shakespeare
+köylü yaz .
+bir anlaşılıyordu !
+içimde sevgili artık
+kadar şairi o
+bileyim ... ne !
+şarap yarım ... ve
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:33:51.221960 (3000)
+--------------------------------------------------
+Loss: 3.642848
+ne kadar bu sarf ... fakat onun
+sonra melul öykülerin :
+ne iyi ?
+bunda beni kumaş .
+diye ... ne ?
+bir ne mı ?
+ama ne başladı ?
+bunları bir şey ! ..
+onu bana gelince ?
+olmadığını kadar hakkında hava bıraktım .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:35:12.108277 (3500)
+--------------------------------------------------
+Loss: 3.621244
+acele iskemleye yürüdüm
+.. bir tekrar .
+kadın sevgili aliye
+ne on oluyor !
+ne bana aliye
+yirmi diye diye ... ...
+bir sevgili sırça
+yokmuş ( ! )
+bana döndüm ...
+demir tesadüf .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:36:34.185600 (4000)
+--------------------------------------------------
+Loss: 3.671897
+birdenbire gidip bu !
+iki sıkıldı kadın ne kadar ali
+fena fakat bir ve .
+fakat sonra zaman
+yüzüme bir açıldı ;
+uzunca sonra gittim .
+sonra dışarıda de ha dedi
+ve ne bana ?
+ben nefes geçti ...
+bir der gibi üç gitti .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:38:19.038038 (500)
+--------------------------------------------------
+Loss: 3.655302
+diye beni mırıldandı .
+bir ali :
+ve diye .
+de • ? ..
+fakat ne ?
+bu sırada ali
+bir zaman kurtarmak yüzüme öperim .
+diye öğleden bir .
+ilk sobaya ( bir başım
+takip zaten .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:39:40.168519 (1000)
+--------------------------------------------------
+Loss: 3.647149
+o zaman ne bir
+o zaman bir bir dedikleri bilmem !
+fakat neydi ?
+... çok ... değil
+bir akşam ..
+sırada bir . .
+yer baktım .
+sağ ve alan !
+şey ! ..
+bu cevap değil zaman !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:41:01.020776 (1500)
+--------------------------------------------------
+Loss: 3.630221
+bir müddet her gün
+... bu ikinci !
+kendini de ... ben
+gün beni mektubun herhalde vakit eden
+ve ne .
+çok sevgili aliye
+ne bu için bu şekli ne gibi ?
+şey bu uyuyamadım ...
+raif sen bu !
+ne on ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:42:21.934753 (2000)
+--------------------------------------------------
+Loss: 3.630132
+bana rastgele bir geldi ... çare
+yoluna anlıyordum .
+ne herhalde ?
+bu yusuf ... bir
+her şey .
+bir daha halde
+ne de ben berlin'e ? ? ..
+markopaşa yazıları ve ötekiler sabahattin musun ?
+bunu yaklaştığını ?
+ara sıra ... hızlı demek bir zavallı !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:43:42.704854 (2500)
+--------------------------------------------------
+Loss: 3.696693
+senin ve doğru yürüdük .
+beni yazık ! ..
+kamyon tarihsiz !
+hiçbir şeyler alıyor
+kapıya ile allahaısmarladık .
+bir maria uzak
+bu sefer değil
+henüz giren bir : ...
+sayısı olarak sordu :
+ne ve bu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:45:04.896983 (3000)
+--------------------------------------------------
+Loss: 3.647448
+diye da .
+daha ne .
+almak bir bekler :
+biraz çok tırmanan
+çabucak ekim :
+şiirleri bir : kızıl söyleniyordu
+ben ! ..
+dedi gibi saati
+belki gibi derin :
+en bak ) .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:46:25.525933 (3500)
+--------------------------------------------------
+Loss: 3.648099
+ikimiz işte !
+sonra sonra gün bir sabahattin ali
+bunları uzun hiç !
+diye bir peyda
+gözüm on ali sonra
+yükselen olacaktı :
+sırtını öldürmek ve bunları
+fakat sonra kitabı bir bu ?
+takip mütemadiyen ancak ancak
+bir şey !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:47:46.181116 (4000)
+--------------------------------------------------
+Loss: 3.660645
+fakat bu sabahattin ali : .
+ne küçük şey bir yeni ... elindeki
+çocuğu bari sarı yürüdü
+evet ... bu .
+mütemadiyen nitekim ali
+raif bana :
+sabahattin ali ve
+olay dakika için !
+o içeri !
+uzun şaşırdı :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:49:32.675415 (500)
+--------------------------------------------------
+Loss: 3.651376
+bir sokaklar !
+bir markopaşa azıcık : gördüm .
+ve evet :
+hafif vurdu .
+fakat tebessümle dedim .
+yatağının temas çıktığını vakit uzaklaştı :
+bile ikimiz .
+ne şimdiye dedi
+derhal sıkıldım bir filiz .
+yirmi çok bir — gözlerini :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:50:52.852229 (1000)
+--------------------------------------------------
+Loss: 3.639168
+birdenbire gibi .
+ve yayımlanmıştır .
+olduğu dedi .
+akşam ne !
+siz içerde bir şey ! ..
+yer ama ! ..
+uzun mi ?
+bana buralarda ?
+çıkarken şey ! ..
+bu sırada geldim ki
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:52:15.385973 (1500)
+--------------------------------------------------
+Loss: 3.638365
+kadar çok ... dedi .
+kadar eden kadın
+diye kadar dedi .
+ve bu ben çökerek bu
+olarak kâğıtları için bir alıp diyor :
+anlaşılıyordu ve hastalığı
+hep ! dedi .
+saat sonra :
+raif dedi .
+ama arabalar beş ... gece !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:53:37.851101 (2000)
+--------------------------------------------------
+Loss: 3.657924
+ne ben babam ? dedi .
+gözlerini nitekim !
+bir düştü .
+az gün kitapları gibi değil .
+ne sual önümde ?
+on yarı bana git :
+ne tahmin ?
+bana bir oldukça !
+bu bir ali
+bir çok gelmiştim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:54:58.135418 (2500)
+--------------------------------------------------
+Loss: 3.649683
+; misafir gitme !
+böyle kredi ara ettim .
+ben haydi kaç ? ..
+ne hiç ?
+bir gibi hem çok .
+bir ben dedi
+var ve !
+edebiyatı ! ..
+kadar her ali
+hâlâ ... çok ediyordu .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:56:18.343413 (3000)
+--------------------------------------------------
+Loss: 3.626855
+de kadar ali
+fakat ne yere ?
+bir yere !
+bu eserleri ve gün
+bu müddet :
+ne maria sallayarak yeterdi ?
+şeyi bir takip dedi .
+bana dedi .
+gramofon liradan !
+bir şiir metin
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:57:37.954372 (3500)
+--------------------------------------------------
+Loss: 3.668559
+hayatı ve ben ve fakat kuruşa !
+o ben da göre :
+öyle kadar :
+maria mektuplar ... ...
+da dışarı kolundan bir ettim .
+bana gördün .
+aliye ? ali
+gün maria her :
+gibi gelince !
+ne berlin'e ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-08T23:59:00.469429 (4000)
+--------------------------------------------------
+Loss: 3.655400
+ben de !
+başka bir şey ?
+de ben ?
+doğru oturdum .
+ne kızla ? ..
+günlerde bu için !
+belki de o !
+markopaşa yazıları ve ötekiler sabahattin ötekiler
+önümde hareket iki bir anneniz !
+kabul ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:00:48.500520 (500)
+--------------------------------------------------
+Loss: 3.625145
+ve bu dedim .
+daha ne ederse ?
+çok sevgili aliye
+ifade ne ifade !
+de benim kapadı .
+bir miydi yaşlarında ben ?
+bana edebiyatı tekrar yok .
+ben senede tekrar gençler yoktu .
+ben ne ?
+ben istedin tekrar efendi ki
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:02:09.054027 (1000)
+--------------------------------------------------
+Loss: 3.631478
+... sonra bir
+aldı ... .
+tarafa mektup aman :
+çakırcalı bu !
+yüzünde gibi istedi .
+bana bir cümle bana bir başladı .
+dört dedim . ve
+ve bu bana gitti
+yanıma yemekten sonra
+bir babası bu akşam ki
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:03:29.607768 (1500)
+--------------------------------------------------
+Loss: 3.638743
+sonra bir bir zaman
+herhalde kadının .
+ben kendisine beş kadar .
+tekrar için döndüm .
+penceredeki onu bağırdım ve kadının
+ben ne miydiniz ?
+başka bir şey değil .
+ne tarafına ? ..
+ne vardı görmeye ?
+her [ bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:04:48.334061 (2000)
+--------------------------------------------------
+Loss: 3.622520
+söylemesi dedi .
+şey yatakta !
+kadın sevgili aliye
+bu sefer !
+tek zaman söylemeye bir kahkaha :
+bir sıcak bir zaman sırça .
+başımı sordum .
+değil ! ..
+bu zaman sırada
+çok sevgili dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:06:08.134493 (2500)
+--------------------------------------------------
+Loss: 3.647854
+sabahattin ali ... de !
+... bu kâğıtları mi ?
+bir gün o
+bu sırada gazetesinin
+gördün ... gibi
+içeri hey ...
+köyden insan tırmanan mı ?
+dönüp onu :
+küçük mı ?
+hâlâ : ;
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:07:30.844327 (3000)
+--------------------------------------------------
+Loss: 3.661070
+benim koşarak başladı .
+bana bir bir .
+dün meydanı ve
+maria markopaşa memlekete ... gibi
+kitabın ara .
+bir pek .
+sonra diye adımlarla etmeyin .
+vardı bir .
+bir tebessüm vardı .
+sonra mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:08:51.726234 (3500)
+--------------------------------------------------
+Loss: 3.648402
+şuraya de tablosu .
+olarak çok .
+ben efendi yalnız .
+bütün ve dedi .
+ben de a !
+çok ... dedi .
+tekrar zor teklif gibiydi .
+fakat şeye !
+sonra beş yanımda : :
+sonra aziz ali
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:10:11.709669 (4000)
+--------------------------------------------------
+Loss: 3.653834
+fakat o seksen
+böyleyim fakat ol
+o zaman bir şey !
+o şey ?
+bu sırada !
+merak doğru s.
+fakat de .
+niçin doğru bir gün
+önüne gelirim .
+o zaman o ...
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:11:59.924623 (500)
+--------------------------------------------------
+Loss: 3.636898
+müddet mi ?
+sessizlik canım bir dedi
+nefes mi ?
+defa halde gençler :
+daha çok !
+bir imamköy birkaç gözlerinizden .
+senin ve ...
+sahnesi yanındaki vermeden şey ..
+ama sabahattin ali
+ve bu suyun o kadar onu senin
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:13:20.068372 (1000)
+--------------------------------------------------
+Loss: 3.624690
+bir basit !
+o kahvenin yalnızım ...
+fakat defa ve mı ?
+raif efendi yok .
+markopaşa yazıları ve ötekiler sabahattin
+başka bir ... dedi .
+allahaısmarladık : bir yukarı ... ... markopaşa
+oldukça mi ?
+bir beyaz alır benziyordu :
+... o oldunuz !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:14:41.591509 (1500)
+--------------------------------------------------
+Loss: 3.653167
+ben ne istiyordu ?
+fakat de raif dedi .
+her yüzünden ...
+çocuk hem bana arkasında !
+bu sırada mu lazım ?
+bu yaklaştığını aldı .
+raif ! ...
+yer ... ...
+raif kadar çıktı .
+gene değildim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:16:04.212932 (2000)
+--------------------------------------------------
+Loss: 3.611799
+... hem de değil
+bütün ve ben bu zaman ay ali
+içeride vardı .
+ödüle değirmenin istedim :
+ben biraz mü !
+sabahattin ali .
+ne bitirdikten ?
+bir idi mi ?
+kendi bağırdı :
+böyle bir birden ne de !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:17:24.587007 (2500)
+--------------------------------------------------
+Loss: 3.644671
+... bir kadın
+olan bu !
+daha ben bir .
+ya ! ..
+ediyormuş ! ..
+berlin'de ! ..
+ve her .
+ya ! ..
+daha bu gün hayır
+bu akşam bağırdı ...
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:18:45.698992 (3000)
+--------------------------------------------------
+Loss: 3.623092
+ben yusuf bağırdı !
+siz yok !
+bir gün gün
+fakat ne başka ?
+bir istiyorum ... ve şeye ... mi ?
+bir benzemeyen !
+o da köy bir ilişti .
+bir akşam kıymetli adaşım
+ben ben dedim .
+bir ... mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:20:08.416729 (3500)
+--------------------------------------------------
+Loss: 3.652285
+kalmak iki :
+ve yoldan imamköy :
+bu soyduğunu şimdi şurada
+sana de bir bekledi :
+ne kadar bu :
+sabaha bağırdı :
+bir onu yanıyordu
+çocuğu alarak :
+ne bir araba bu hafta !
+ellerini sustum .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:21:29.459218 (4000)
+--------------------------------------------------
+Loss: 3.623786
+beş hep ! ben dedi .
+çıkar ! ..
+bu karşımdaki başladı .
+o dedi .
+bir gün !
+genç ali’nin her bir şey yok ... ne zaman dedim .
+o bir .
+şakır genç gelin ettiğim bir
+on o .
+ne bu !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:23:14.192959 (500)
+--------------------------------------------------
+Loss: 3.642006
+bir yeterdi .
+tabloyu biliyorum !
+onu iyi doğru bir
+başladı ... ne sonra şey ! ..
+kurşunu ( olmayacağını )
+köylü ve şeyler ormanları .
+ormanları birinde üzerinde !
+kadına çağırırsan geliyor sonra
+fakat bey .
+ne daha ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:24:36.580971 (1000)
+--------------------------------------------------
+Loss: 3.623442
+sonra suları :
+ve burada !
+üzüntülü bir açtı ... gözlerini yatar diye ile değildi .
+markopaşa yazıları ve ötekiler sabahattin
+sana bir kimi
+çökerek onlar en çok yolunda vurmuş ediyordu .
+etti ve gittik dedi
+çok sevgili aliye
+ne yok ?
+o ne beni değil !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:25:56.084350 (1500)
+--------------------------------------------------
+Loss: 3.639457
+ne onun sessiz vakte kadar
+beş halde sonra
+fakat o .
+ise kapıdan ali
+ağır ve musun ?
+ne birine verdim
+o da bir bir bir bir mühim i
+halk bir .
+kaldırıp : :
+bana fakat yaptığını
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:27:15.990876 (2000)
+--------------------------------------------------
+Loss: 3.645560
+almanca söylemesi ... haydi baskı .
+fakat bu kıza
+fakat ben de ! ( onu .
+bu olmayan :
+o gün o
+bu bana gün
+cevap lira onu baskı .
+... ne cevap eserleri ?
+bunları ... bu
+her şey yani
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:28:38.255235 (2500)
+--------------------------------------------------
+Loss: 3.650017
+ya ! ..
+bana tiyatrosu oturduğu ne .
+daha çökerek öyküleri ... :
+bana mı ?
+... her .
+yeni yolun geliyor
+kadar bile şuraya .
+diye gibi ha
+fakat karısının .
+sayısı adım gösterdi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:30:00.726481 (3000)
+--------------------------------------------------
+Loss: 3.617730
+yani ... ...
+bir şey yoktu .
+maria markopaşa yandan olarak
+geri ! ..
+bir bir verdi .
+seni yoktu .
+hemen başladı .
+ya ! ..
+ne zaman ... dedi
+yapacağımı bir kararı gitti
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:31:21.982430 (3500)
+--------------------------------------------------
+Loss: 3.656269
+ne diye bir
+o zaman o orada bir tekrar yazarlarının .
+bu yerini ?
+ilk defa için
+ne mahkemelerde ali ?
+... bu .
+markopaşa yazıları ve ötekiler sabahattin ! sabahattin !
+misin diyordu .
+ben bana hasretle
+bundan vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:32:42.764047 (4000)
+--------------------------------------------------
+Loss: 3.643268
+evvela bir şey
+bu yok !
+... bu raif evvela
+ali dedi .
+çok sevgili aliye
+başka bir ziyade !
+bizim ! ..
+ver ! ..
+ben de hasta
+çok yazısında etti :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:34:28.716408 (500)
+--------------------------------------------------
+Loss: 3.629946
+hayır ... .
+ben biraz şoföre ne
+o kıza ben ...
+ve dedi .
+fakat ne diye .
+bu sırada satıcı hayır
+nasıl dışarıda ben de
+beraber bir .
+başını ediyordu .
+bir bu .. !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:35:51.217064 (1000)
+--------------------------------------------------
+Loss: 3.626282
+şey ! ..
+idi mi ?
+11 hiç doğru
+hakikaten ve onun şefik ortasından ali
+ona lazımdı .
+her ben yürüdüm vaat dedi .
+onun de bir .
+bu ve parladı ... görünce bu gün
+tesadüf birdenbire evet ...
+arkaya bu mesele .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:37:10.781321 (1500)
+--------------------------------------------------
+Loss: 3.637254
+bir verdi .
+kitap oturttu .
+opera ; sürü
+başka müzik bir şey ! ! ..
+derhal yazısında doğrulup
+sonra ay ettiğim seviyorum :
+o söylenmeye !
+halbuki dedim .
+bir şey ... bir
+bana ne diye
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:38:31.558736 (2000)
+--------------------------------------------------
+Loss: 3.641947
+topu da bu
+ne beni ?
+bu pencere ...
+oturalım ! ..
+ilk defa kabul bir idi
+ben de olarak
+siz beni bana bana
+her şey .
+... dedi .
+de yataktan çökerek
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:39:51.311192 (2500)
+--------------------------------------------------
+Loss: 3.650013
+mecbur çalışıyorum kadar sonra
+bir vardı .
+siz de çok bir .
+görünce nedense çok sonra
+en hastalığı için
+ne gibi ?
+o de bir diye bir bilir olduğumu
+şimdi ben bir ile .
+gözlerini bazı .
+belki de vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:41:12.175501 (3000)
+--------------------------------------------------
+Loss: 3.629855
+fakat birdenbire ve
+fakat her oturarak
+fakat dedim .
+gitmek ya ! ..
+çağıracağım ... ... mi ?
+sana : ?
+fakat şey !
+ne ... daha sefer bir ! .
+ne mi ?
+ben ... dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:42:32.534345 (3500)
+--------------------------------------------------
+Loss: 3.630675
+çok sevgili aliye
+bütün ve dedi .
+... bir iki zaman benimle tabii gibi yalnız ... bu kadar zaman
+bir ara efendi hatırlıyor
+çok sevgili aliye
+dört gün sonra
+değirmenin bir .
+kadar ali bir .
+bu sonunda göz ali .
+bu çok .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:43:55.727674 (4000)
+--------------------------------------------------
+Loss: 3.633721
+aldım uzattı .
+var ali ... maria ki !
+vardı ... !
+bir yerde sonra
+fakat kadın onu türk duydum ...
+efendi o da raif zaman
+kadar birdenbire yok .
+fakat her !
+onun müzisyenlerden :
+maria ve .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:45:40.925045 (500)
+--------------------------------------------------
+Loss: 3.584503
+bu bu onu 1948 söylemek
+birkaç türkçe !
+bütün bir bir
+birkaç bilmiyorum beri bu
+tekrar oldu .
+hiç ... şurada
+sıkıldı ben !
+söyleyeyim sen alarak :
+markopaşa yazıları ve ötekiler sabahattin
+çıkan sabahattin biz
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:47:03.000134 (1000)
+--------------------------------------------------
+Loss: 3.629686
+çıktı beri .
+( bir ?
+mahrem anda bir başı :
+edebiyatımız ( o !
+... ne 1998 ?
+başını bekler bana baktı :
+savrukların gün şefik
+gelirim o ali
+siz nisbetinde mektupları !
+ilk defa .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:48:22.066952 (1500)
+--------------------------------------------------
+Loss: 3.621206
+bir şey mevsimde ...
+başımı iyi de torbayı bir !
+her ben daha
+hakikaten . ..
+delikanlı kıza süleyman kadar
+bu kadar şey
+ve gördü :
+ilk defa şurada :
+işte musunuz ! ..
+belki defa ve o ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:49:43.736443 (2000)
+--------------------------------------------------
+Loss: 3.632314
+gene ederek :
+arka işte !
+bir kim çabucak aynı adımlarla ... ne evet ?
+her zaman da baktım .
+bir italya'ya yaşta sevgili .
+yazık ! ..
+ne içinde ali’nin bir . ve
+ne nazik ? ..
+ne kurşunu ?
+ne : ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:51:05.178530 (2500)
+--------------------------------------------------
+Loss: 3.603360
+bir fakat gibiydi .
+dört defa .
+bu kaç bu sevgili
+ne olsa ?
+ne yalnız ?
+bir sonra .
+bana baktı sevgili sıkıntılı !
+... ne ?
+bir uğraşan :
+arka sabah :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:52:26.527431 (3000)
+--------------------------------------------------
+Loss: 3.661305
+fakat ... sonra ne
+yana uzun değil
+her çok !
+ne attı ?
+ne hiç ? ..
+her omzuma ne
+da fakat ya ...
+tuttum : bir daha :
+ne diye öteki
+ne köyde ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:53:48.327576 (3500)
+--------------------------------------------------
+Loss: 3.635004
+.. diye bir bir
+yirmi bu kadar :
+ne kadar ?
+kimse ... bir gün yalnız bana ... maria birdenbire fakat okudum .
+genç insan süzdü : !
+onunla bir .
+seviyorsun ! ..
+bir bir dedim .
+sallanmakta evet ... bu !
+kendine on yazı
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:55:10.999610 (4000)
+--------------------------------------------------
+Loss: 3.625664
+bitirdikten sonra başladılar .
+tekrar ne ... .
+ne mi ?
+ne etrafında .
+ne markopaşa .
+kırlangıçlar ve mektup
+ömürlü bizim bu ... fakat .
+ağlamaya dedi .
+çıktığını acaba mi ?
+cevap mahrem filan !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:56:54.327573 (500)
+--------------------------------------------------
+Loss: 3.593447
+nitekim bu !
+bir dedi .
+ben de şey
+ışık dedi .
+ben bir ben doğru :
+raif bizim edebiyatımız küçük
+bir kadın daha sık :
+çıkmış seziyordum .
+ne diye ?
+fakat böyle başladım .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:58:14.775458 (1000)
+--------------------------------------------------
+Loss: 3.654158
+ben yazık ! ..
+şey ! ..
+kadar bu yalnız görüyordum .
+diye aliye’ciğim .
+kadının bir sana !
+evet bana sonra
+üç doğru !
+siz bir herhalde değil ... çalışıyorum ... bir geri bir yatağında .
+bunları bir !
+gibi bu ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T00:59:36.207135 (1500)
+--------------------------------------------------
+Loss: 3.652721
+onlar yok !
+evde o !
+o kafama de bir içti .
+gidiyorsun gittim .
+... bir şey da
+sonra yaptın işaret fakat bu da ... dedi .
+sebebini o .
+iki ortalarına mi ?
+evet ! ..
+hafif bir eder ! ! ! !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:00:57.239047 (2000)
+--------------------------------------------------
+Loss: 3.621561
+biraz yol ?
+içlerinde bir sevgilin ... bir .
+belki olursa başka ali ve
+ne tahammül raif ?
+ve kim .
+ismi içinde de belki şimdi olarak .
+bana olarak !
+gene beş on
+ne toplamaya ? ..
+ne evet !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:02:18.526434 (2500)
+--------------------------------------------------
+Loss: 3.644078
+ilave gidiyorsun :
+ne yok :
+mektepten ... fakat sonra ?
+yatağına ettiniz ?
+böyleyim nasıl ! ..
+bu diye hemen ?
+baktım ve !
+ne gün için !
+hiç olmuş (
+ne aynı bulamadım !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:03:40.109857 (3000)
+--------------------------------------------------
+Loss: 3.667306
+birkaç seviyorum sonra doğru değildi .
+hemşire sonu :
+bana o ?
+daha dedim .
+çok sevgili ve kasabaya bana doğru : :
+... dedi .
+ne mektebin ?
+bunlara ne kan ?
+nasıl musunuz ?
+bu hissettim ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:05:00.556762 (3500)
+--------------------------------------------------
+Loss: 3.619966
+siz ne kadar fakat silkti
+dışarı bir döndü
+ne ihtimal giderim
+yüke ne !
+insanın ben :
+durdu kızla !
+bir benziyordu .
+11 bu !
+ne gördüm !
+ya ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:06:24.423139 (4000)
+--------------------------------------------------
+Loss: 3.658188
+ya ! ..
+vurdu bir gazete ve bir
+markopaşa yazıları ve ötekiler sabahattin geliyordu .
+bana da başladı .
+diye ve dedi .
+sabahattin ali ( peki .
+bu dolaşmak vardı .
+bir markopaşa bu gel
+milyonlarca de ediyor çok
+ne başladım ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:08:10.656911 (500)
+--------------------------------------------------
+Loss: 3.634128
+raif fakat mehmet
+sonra sizi çatarak :
+her ve mektubun gayet .
+vardı ... çocuk .
+bunları çöktü .
+değirmenci : ve
+bir dedi .
+/ çok ) göründü .
+madonna ve kapadı .
+bütün derhal aliye
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:09:31.523635 (1000)
+--------------------------------------------------
+Loss: 3.619223
+kadın çok bir
+artık çok tekrar bir gitmek tren sordum ... ... iki o ... hiç .
+ben hiçbir bilmem ...
+başka bir otele ?
+biz ... dedi .
+ben başka bir dedi .
+siz de ben ... dedi .
+gibi evin .
+yok : !
+çıkmış birine koşarak bir şey !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:10:51.190490 (1500)
+--------------------------------------------------
+Loss: 3.652690
+fakat fakat şaşırdım şeyi .
+fakat fakat bulunduğum memuru başlamıştım .
+bir ve .
+bir saparak bana / : mi ?
+iki ben duran babacığım hemen şey !
+adamakıllı ! ..
+şey ! ..
+diye durmadan gramofon girdi olan bir adamakıllı !
+bundan sonra şey
+... bu nasıl kadar değil ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:12:12.464892 (2000)
+--------------------------------------------------
+Loss: 3.662824
+en : aliye
+fakat o yirmi :
+yüzüne fakat ?
+kitapları ! ..
+sonra gün kadın
+... bu var
+çok sevgili ... sevgili .
+ali onu hep
+uzun müddet ediyordu .
+çok önündeki .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:13:32.989820 (2500)
+--------------------------------------------------
+Loss: 3.656683
+söylediği ! de beni de bu .
+markopaşa yazıları ve ötekiler sabahattin
+sonra ormanları sonra
+bir neşeli zaman
+aynı sen hava
+ses sonra ?
+bütün dedi .
+çocuk ) .
+bir başka !
+de hâlâ .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:14:54.669488 (3000)
+--------------------------------------------------
+Loss: 3.626351
+var ben ben sürdü :
+ben attı .
+birdenbire tarla bir söylediği .
+bu akşam çok .
+senede ve var
+bir muhakkaktı .
+ne seksen ?
+sen çekti ... vardı ... çalmaya ?
+burada beş .
+demir üzüntülü bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:16:16.411612 (3500)
+--------------------------------------------------
+Loss: 3.667418
+bu gerdim .
+başında o zamanlar dedi .
+bu beklediniz ne değil
+fakat dedi .
+1997 dedi .
+tam bu sırada
+çaydanlık mektebe zaman sen boylu
+birdenbire karşı eşi
+bu avaz :
+on geçen o kadar :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:17:37.739336 (4000)
+--------------------------------------------------
+Loss: 3.676078
+bir : dedi
+aynen dedi .
+biraz sabahleyin adı hastanın
+ne soğukta ?
+en bilmem !
+hem çok baktı !
+aşk ay bağırdı :
+sabahattin ali bir
+bu başladım !
+niçin ne dalgın çok
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:19:22.238980 (500)
+--------------------------------------------------
+Loss: 3.626626
+tekrar benziyordu .
+seni bir dedim .
+ve sabahattin bu nedir ?
+sabahattin sazı ... ; fakat fakat bu .
+fakat beş bile
+bir fakat diye .
+şarap lazım !
+bir çıkardım : ve metin
+markopaşa yazıları ve ötekiler sabahattin
+de birkaç doğru bunun bir gibi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:20:46.479884 (1000)
+--------------------------------------------------
+Loss: 3.603467
+bana kadar siz !
+... ne gümüş !
+birdenbire ve alisabahattin bir .
+neler zaman ... diye biz .
+mi da .
+... o ...
+üzerinden bu karar benim akşam kimse sonra kuruşa dedi ali
+de ... zaman
+fakat o pek .
+sonra rağmen sıcak yaptığını
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:22:06.764034 (1500)
+--------------------------------------------------
+Loss: 3.642710
+kişi gibi !
+sen o da
+... şey diye
+ben tasarımı :
+bu ortadaki bir hamdi süratle dedi .
+bütün de ve beni !
+o de da
+diye fakat .
+şiir seke gittim
+bana gitme ...
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:23:28.306410 (2000)
+--------------------------------------------------
+Loss: 3.683437
+bir verdiler :
+halinde sallayarak :
+ben anlaşılıyordu .
+bu miyim ?
+bütün de andan bana ...
+kadın güç bir ... sabahattin diye
+doğru baktım .
+ortasından kalkıp hissettim .
+çok sevgili ben .
+şakır gittim .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:24:49.250300 (2500)
+--------------------------------------------------
+Loss: 3.654977
+sonra bir başında
+bir yazdığı 1998 !
+... süzdü !
+istiyorum ... !
+bana bir !
+bu bari !
+bana istedin ilk diye de .
+siz mı ?
+içeri sayesinde .
+gözlerini ve sen
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:26:09.412771 (3000)
+--------------------------------------------------
+Loss: 3.671409
+razı götürdü .
+uzun ama ... zaman
+fakat dedi .
+... bu öğretmen ...
+bu şeye o
+söyle çağıracağım ... ...
+ne de zaman şey
+bu sefer :
+seni kenarına iyi .
+kâğıtları demekmiş .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:27:30.622559 (3500)
+--------------------------------------------------
+Loss: 3.661508
+— beni :
+markopaşa yazıları ve ötekiler sabahattin : ?
+bu ne ...
+bu ve değil
+bu dedim .
+için fakat bu
+sahi dedi .
+onun bana öğretmen
+sonra söyleyen yavaşça bal prag
+sabahattin ali (
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:28:51.434818 (4000)
+--------------------------------------------------
+Loss: 3.663182
+birkaç misafir ; arkadaşım
+arasından gazete :
+markopaşa yazıları ve ötekiler sabahattin başı bir
+yüzlerce tarafı bir
+olduğum iki kadar pekâlâ !
+renkli bir çıktım .
+edip yanlışlık terk shakespeare'ler
+bir dar !
+türlü dikkat birkaç olduğu gibi ettim .
+daha bu gibi vardı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:30:35.944956 (500)
+--------------------------------------------------
+Loss: 3.630218
+de yaptı .
+daha ben de !
+ne ormanın ?
+için o bu söyleyecek bir şey de şey taraflarına ... ki
+bir biraz ama
+nihayet beni defteri alıyor
+bu namazında türkçe ne birdenbire ?
+ben söylemek !
+için fakat dedi .
+ne hamdi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:31:57.704589 (1000)
+--------------------------------------------------
+Loss: 3.640661
+başka bir şey mantolu ali
+başka bir şey uzaklaştı .
+bu ilişti ...
+ne için ettim
+ben çok çıkardığı kalktı .
+vakte doğru :
+uzun kahvenin ...
+işte ne kadın
+bakıyordu ve :
+sadece yayımlanmıştır :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:33:19.672065 (1500)
+--------------------------------------------------
+Loss: 3.625224
+sonra yapısı :
+ne başıma ?
+bir bunları !
+ancak tasavvur sallayarak bir şey edeceğim gün
+başka beş .
+tam bu sırada
+çok bir olup kadar
+bir sordu :
+burada ihtimal o .
+sonra bir muamelesi bana daha
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:34:38.585025 (2000)
+--------------------------------------------------
+Loss: 3.637824
+fakat bir çekti !
+sevgilin tetkik ... mi ?
+fakat haberi !
+bütün demekmiş fakat
+bütün sarı ve gibi adamın defa tarafında da
+raif siyah bir gene bir sonunda ve alaka
+siyah bu dedi
+bir de : yaptım .
+da sonra fikir ali ki
+bütün dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:35:59.668875 (2500)
+--------------------------------------------------
+Loss: 3.653353
+sanılan ne !
+bu dayak vardı
+ve dedi .
+gelin yanında dışarı ileride
+dün onu bak mi ?
+birdenbire işaret ettim .
+ve ben görmek
+sıkı su hafif .
+biraz bekledim . .
+bu torbayı ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:37:20.548195 (3000)
+--------------------------------------------------
+Loss: 3.607157
+bütün bir !
+bir : !
+bir mühim millet bir
+o fakat o da gördüm .
+kıymeti dedi .
+oğlundan gibi sayesinde
+o zaman bir
+diye ya .
+da kapadı .
+çıkan sıcaklar ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:38:40.641813 (3500)
+--------------------------------------------------
+Loss: 3.670832
+kadar sıktı ...
+sonra çok mesut ben ?
+bir üzereydi !
+markopaşa yazıları ve ötekiler sabahattin sabahattin ali bir
+kızın bir bana haydi
+bir altından bal
+şey ediyordu .
+birdenbire ne de ?
+bu söylüyordu ihtiyar
+bana alıp 3 !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:40:02.366833 (4000)
+--------------------------------------------------
+Loss: 3.670322
+arasında mi bir de bundan
+peki ... .
+ne kadar ?
+altından geceleri .
+fakat sırada ?
+rastgele ve da bir
+köylülerden hatırladım .
+bekliyordu ... bir oluyordu !
+ben hiç de olmayacağını etmek .
+senin buna bir
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:41:46.749086 (500)
+--------------------------------------------------
+Loss: 3.636776
+sonra hey çok
+gel ! ..
+fakat sabahattin ali
+öğleye çok her !
+fakat bu :
+o kadar sıkıntısı ne ..
+diye düştü .
+soluya kadınlar sonra
+münasebet çay de sabahattin ali
+kim bu aliye
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:43:09.744602 (1000)
+--------------------------------------------------
+Loss: 3.627636
+bir sıkıntısı sadece diyordu .
+ben ’ doğru zaman odanın önündeki bu ya
+hemen markopaşa zaman şaşırdım .
+ne kadar bu devam
+biraz hemen baktım .
+hemen : .
+onu konuşmaya .
+görüyordum : ... yemeğini
+dün doğru ses
+işte da kadar olacaktı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:44:30.864214 (1500)
+--------------------------------------------------
+Loss: 3.634271
+yaşlarında bir geçiyordu :
+yapısı taş on ve siyah
+gelip yazık !
+her ve değil
+o geldim sabahattin
+bana sevgili aliye
+ya öteki bir
+bu söyledi .
+sonra : ?
+yargıtay düşündüm .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:45:51.144571 (2000)
+--------------------------------------------------
+Loss: 3.653128
+hemşire yaptın :
+çok 56 ver !
+hayret oğlun durup :
+boş bir bir ) sonra yürüdüm .
+ne nereye çok !
+da girdi .
+yavaşladı ... !
+bir gün ağaçların
+bu merak ... pek şiire
+aptal bilmiyorum !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:47:12.963565 (2500)
+--------------------------------------------------
+Loss: 3.639748
+maria birkaç bir samimi yeterdi .
+bir mı ?
+ver bir şey kadar .
+yer ! ..
+için biraz hava
+bir da neyse
+... dedi .
+çok bulunduğu .
+ne romanların ?
+ali mi ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:48:33.750785 (3000)
+--------------------------------------------------
+Loss: 3.648349
+bir yana yoktur .
+belki ormandan bunu bundan sonra memnunum .
+fakat bu şey ?
+fakat ve ilk ?
+kadın ne ben
+maria bir .
+fakat ne çıplak ?
+hakikaten bir öyleyse kadar bu !
+kasabaya derken :
+diye uzattı .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:49:54.251102 (3500)
+--------------------------------------------------
+Loss: 3.675759
+ne adam ?
+akşamüzeri lüzumu değil
+evet ... ali
+... sabahattin dedi ... ne kapıdan çekerek gibi
+herhalde yani dedi .
+küçük beklerim .
+olduğun ! ..
+tam bu sırada
+doğru değil mi ?
+etmeyin on bana kızı gibi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:51:15.375780 (4000)
+--------------------------------------------------
+Loss: 3.662974
+içinde derken bir .
+sonra çocuk ver
+defa için uğradığım sonra bu
+bir bana benzer
+hayır ben bekir :
+biraz ve duydum .
+haksız fırladım .
+ve sonra evvelki :
+... uzunca ... ..
+onun de çatarak olacaktı :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:53:03.771900 (500)
+--------------------------------------------------
+Loss: 3.637160
+yalnız bir şey .
+herhalde mı ?
+bir frau bağırdım :
+bir yüzünüzden !
+fakat çocuk gün !
+bir bir benzemeyen mı ?
+bir bazan !
+... bu lira ...
+başıyla dedi .
+kendinden bir alır ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:54:26.577352 (1000)
+--------------------------------------------------
+Loss: 3.620941
+bakalım burada çok .
+süngü mecbur :
+bana ne birbirlerini ?
+ses çıktı ...
+çok sevgili çok !
+sene parladı düşündüğü aydınlık altı :
+biraz sonra çıktı .
+kadın daha de :
+ve farkına .
+ne on söylüyordunuz ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:55:45.950724 (1500)
+--------------------------------------------------
+Loss: 3.656752
+çakıcı’nın ilk zaman yanında daha .
+sustu bir ... köşeli
+tekrar salladı .
+bir halde ediyordu .
+yukarıdan bir şey
+fakat iki uğruna !
+iskemleye bir yüzünden
+ne sonra yaşında memnunum !
+tekrar bir :
+başımdan bir baktım .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:57:05.965067 (2000)
+--------------------------------------------------
+Loss: 3.595782
+sen dedi .
+gibi tarafa bıraktı
+bu sefer şeyi bir şey .
+türkçe mu ?
+sonra mıdır ?
+bir fırladım .
+çok başka sıcaklar ötekiler !
+ormanın milyonlarca bize ve yalnızım !
+derhal benimle işaret kadar sanat o ya
+bir sesi hakkı da görünüyordu
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:58:26.600344 (2500)
+--------------------------------------------------
+Loss: 3.661428
+yanaklarına o şeyleri
+bilmem ... gün
+bütün ve kendinden
+raif içinde baktı aliye dedi .
+bana on gözlerini !
+yok o !
+ve ne olur ?
+posta ve gözlerinin elinden
+kadın şeyleri bakalım gün
+ne raif ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T01:59:48.193577 (3000)
+--------------------------------------------------
+Loss: 3.627960
+diye bir .
+sonra nurettin yayıldı
+sahibi bu bileyim iki yanındaki maria'nın zamankinden şey gibi
+teşekkür bir mi
+biraz sonra taraflarına !
+diye haber bir hatırladım .
+yirmi düştüm da
+o da üstüne bana ilk ?
+ben de mı ?
+o shakespeare ve
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:01:10.105570 (3500)
+--------------------------------------------------
+Loss: 3.640164
+bir önce bir .
+ve ben oldum .
+çok şey ! ali
+beni gibi veren bana daha
+ne bana nasıl !
+böyle bir tarihinde
+bir mırıldandı ... kaşlarını kesildi .
+ne gün ?
+benim ve dedi .
+kıza söylemişti :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:02:29.937848 (4000)
+--------------------------------------------------
+Loss: 3.662334
+daha ne .
+sonra münasebetsiz :
+sevgili düştüm !
+gözlerle ne kişi bir
+efendim ! ..
+karşı başlamıştım !
+markopaşa yazıları ve ötekiler sabahattin .
+tatlı bir .
+biraz pek imamköy geçiyordu .
+aralarında bir .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:04:14.255961 (500)
+--------------------------------------------------
+Loss: 3.645441
+ne adrese için müddet
+sonra ? seni kendimi 2003 ...
+yüzü sonra ve dönüp !
+ne dar ? ..
+teklif olduğunu on izmir doğru
+sonra mi ?
+bir ortada bohçayı göründü .
+sofrada başladı .
+sobaya tamamen vardı .
+bütün doğru : dedi
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:05:35.545575 (1000)
+--------------------------------------------------
+Loss: 3.648247
+bana sabaha için bir
+ben de hayır
+de ne ait sonra
+yerde ne bir var ...
+sonra daha .
+değirmen ( bir yoktu .
+ne daha bana mı ?
+birdenbire ve alaka söylüyordu .
+tekrar bir de sonra fakat bana
+bu neydi başka ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:06:58.000743 (1500)
+--------------------------------------------------
+Loss: 3.650836
+bir kaldırıp da sebebini gibi hemen .
+bütün mesela ne sordum
+raif bir görüyorum
+yol görünce meselesi kendimi müzisyenlerden ve
+başka müthiş bir hava başladı .
+görünce selam ve bir eşi
+içine da alçak vardı .
+bunu tam gibi .
+) biliyor bir .
+başka bir dişi :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:08:18.815470 (2000)
+--------------------------------------------------
+Loss: 3.635639
+başını buradan :
+bir ... zaman ali
+kadar çok oluyordu .
+o onun bir .
+beyaz vaziyette ?
+... dedi .
+yerde odasındaki tiyatrosu .
+sevgilin kadar gördüm .
+diye dedi .
+beş beni ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:09:41.980162 (2500)
+--------------------------------------------------
+Loss: 3.635946
+ne için ?
+ne çabuk o
+diye nedir .
+bir ne vardı ; gibi öykülerinde bir üzerinde
+ne kadar dedi
+diye hiç .
+markopaşa yazıları ve ötekiler sabahattin ! ..
+beraber ) .
+içimde yapın ?
+fakat ve ne niçin .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:11:03.317240 (3000)
+--------------------------------------------------
+Loss: 3.668342
+raif miydiniz ? ..
+fazla beş ;
+nasıl ederim !
+vermiş atmaya .
+fakat bütün de
+bütün bu sonra gün
+ve dedi .
+bunları var .
+ne mektep bir o şey ?
+raif ... tane bütün
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:12:21.969039 (3500)
+--------------------------------------------------
+Loss: 3.649797
+bir de i bir ben kendine
+siz birbirimizi ben
+bütün bu kadar zaman kaldırdı ... ben garip
+de başı !
+bilmem şey !
+da allahaısmarladık .
+evine bu kadar değirmenci sordum .
+... dedim .
+efendi peki puder'in .
+hal ben de
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:13:42.889249 (4000)
+--------------------------------------------------
+Loss: 3.713539
+ne ormanları ?
+nasıl ! ..
+de ... .
+ona kıymetli de dedi .
+sabahattin ... sonra .
+fakat bir şey
+çağırırsan bir yeterdi .
+ne ... dedi
+markopaşa yazıları ve ötekiler sabahattin
+önünde ! ..
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:15:28.360449 (500)
+--------------------------------------------------
+Loss: 3.626278
+fakat o evvelki çekip ?
+benim o olmakla dönüp yürürken
+fakat her adaşım
+ben de şarap
+yatağının gider biliyorum .
+yapmıştır ve dedi .
+o ben o sedye bir : .
+fakat dedim .
+erkek bu !
+bunu arasından iskemle eden :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:16:49.042537 (1000)
+--------------------------------------------------
+Loss: 3.684148
+bir beklerim .
+... bu meşhur
+ne diye sokuldum ?
+ne suyun biraz diye bir yandan
+onun böyle söyledim :
+küçük beklerim .
+ben oğlundan böyle
+biraz akşam tasarımı .
+bu kaldırıp sustu .
+olduğu dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:18:08.607073 (1500)
+--------------------------------------------------
+Loss: 3.665585
+ben yuvarlak .
+o sıkış bana
+bir şöyle geldiğim
+ne ve gün ! ..
+ben benziyordu .
+ne diye yanında allahaısmarladık .
+diye söylenmeye ?
+o cevap ?
+evet mahrem .
+ne bugün ben ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:19:28.946536 (2000)
+--------------------------------------------------
+Loss: 3.674352
+bir gibiydi .
+o da bana ali
+daha her yazılan
+fakat ilerideki zaman
+bir bundan daha !
+yerde yollarım !
+markopaşa yazıları ve ötekiler sabahattin üzerinde ali
+her zaman ...
+markopaşa yazıları ve ötekiler sabahattin
+ne diye köylüler !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:20:50.010372 (2500)
+--------------------------------------------------
+Loss: 3.654972
+bütün geldiğimi :
+fakat başladılar .
+zaman çıkan ! ...
+bir olurdu ve ... o !
+olursa pencere bu
+bu oluyordu puder'in pek .. .
+yüzüne baktım .
+fakat vardı .
+yapmak sular yatar
+sonra mısınız o
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:22:12.019052 (3000)
+--------------------------------------------------
+Loss: 3.623179
+sesi sevgili nasıl !
+fakat ne o
+ne aydınlık bunları münasebet .
+( gibi ... bana şeyler pek şeyin
+.. oldunuz dedi .
+... onun bulunduğu mektubunu vardı .
+bana zaman anlaşılıyordu .
+romanları ( söylenmeye .
+daha bana sabahleyin öyküleri :
+... o .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:23:34.559972 (3500)
+--------------------------------------------------
+Loss: 3.650185
+diye söz .
+ne oldun ?
+benim ... ..
+bana bir bir olmuştu okudum ... ?
+tarihinde ... puder
+zavallının üstüne dedim .
+ne sordu kadar
+insanlar gördüğüm ... sonra !
+siz beni .. !
+ne daha sefer ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:24:54.719810 (4000)
+--------------------------------------------------
+Loss: 3.656866
+birkaç üzerimde sonra bir pencerelerin mektubu tercüme gün istemiyorum .
+baktım diye !
+bunları memnundu :
+o ne verdim ?
+sekiz gibi !
+kanal bir benzemeyen :
+bütün : oğlundan .
+sana de düşündüm .
+biraz ! ..
+göre birdenbire ali
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:26:38.464874 (500)
+--------------------------------------------------
+Loss: 3.632832
+ben baktım ve
+şimdi oturuyorsunuz .
+diye mi ?
+çok gördüm .
+ve de ... bana .
+sonra gelirim : birtanecik
+siz baktım !
+markopaşa yazıları ve ötekiler sabahattin
+ve ne mi ?
+siz yüzüne .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:27:57.038949 (1000)
+--------------------------------------------------
+Loss: 3.636247
+ben de !
+gün beni musun ?
+hayret etti :
+de ben de için !
+birdenbire akşamüzeri doğru bana bir zaman kıza :
+zaman şaşırdı : .
+ne ... kaldırdım
+arka söylenmeye var !
+eşi kadar .
+beri ? dedi bir :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:29:18.818218 (1500)
+--------------------------------------------------
+Loss: 3.611130
+ne yüzünü ?
+ne gelmiştik ?
+üzerinde yok .
+bilmem ... bir mi ?
+bir onlara sonra birkaç oradaki anlamıştım :
+onunla sonra göz :
+bir değildim .
+fakat sonra bana .
+birkaç daha sözünü !
+bana izmir !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:30:39.831538 (2000)
+--------------------------------------------------
+Loss: 3.656944
+ne diye ?
+bu oturmuşlar bir .
+diye orman kaldık ; içinde
+ne çiftler için ne
+diye kesildi .
+onun hesap !
+belli evet !
+hepsini ne sen bana beni !
+sakın de ne diye
+o mı ?
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:32:01.557842 (2500)
+--------------------------------------------------
+Loss: 3.643676
+hiç yatağın .
+ismi yoktu mi ?
+çevirerek ( yolun ?
+ikimiz bir bu .
+doğdu ! ..
+süzüyordu kadar .
+ve o çok .
+peki da neyse
+çok sevgili aliye
+belki daha bir olurdu yok .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:33:22.473185 (3000)
+--------------------------------------------------
+Loss: 3.616748
+çok bu içime tanesini bakıyordu .
+o frau .
+bir sonra .
+işaret ... :
+de kendisi gibi ! ..
+bu ovası’nda için birkaç baktım .
+değil ... .
+ankara'ya gelirim ... ... tekrar
+üstün dedi .
+birkaç olmayan .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:34:44.043100 (3500)
+--------------------------------------------------
+Loss: 3.651076
+ne karşı gibi önüme :
+onun gözlerimi ve .
+bu da yaz .
+kaz bana bana
+markopaşa yazıları ve ötekiler sabahattin ! .
+böyle bir için kaldım .
+hâlâ tanıdım ...
+ekim için !
+isimli evet ... bir
+kaşlarını mıdır !
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:36:05.991051 (4000)
+--------------------------------------------------
+Loss: 3.636686
+bu oldukları için
+her tarihi ...
+ben de gün
+ne onlara ?
+gayet <MASK/> fırladım .
+yılbaşından sonra :
+ve ne !
+ayrılıp imkân mi ?
+var bir .
+çekerek sokakta uzattı :
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:37:53.681023 (500)
+--------------------------------------------------
+Loss: 3.603276
+... dedi .
+şefik cevap vardı :
+birbirine dedim .
+ne baktım ?
+çok için verdiler .
+beni hakikaten da defa
+maria kendime sıkıntısı iyi bir :
+gittim ve ! ..
+o ve bir gün bana gittim .
+koydum ... .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:39:13.215677 (1000)
+--------------------------------------------------
+Loss: 3.660288
+ne öyleyse ...
+seni no : ...
+istiyordu ... ! ..
+onun hangi ettim
+... bütün bir bir türlü !
+tedbiri ben bu o fakat zaman !
+bu fakat bir 7 insan .
+bir canınız .
+kadının karısı ve
+ve ben .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:40:35.154924 (1500)
+--------------------------------------------------
+Loss: 3.670767
+markopaşa yazıları ve ötekiler sabahattin ?
+daha de .
+vererek altında bir böyle
+çok sevgili yok ...
+günlerde bir ver !
+bir şey mi ?
+bugünkü 26 kadına :
+akşam ne ?
+raif doğru tasarımı .
+genç bir beni senelerden
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:41:55.546471 (2000)
+--------------------------------------------------
+Loss: 3.628572
+biraz onun .
+de bana .
+bir ali’nin açtı .
+çocuk şeye :
+bir yanaklarına sen senden yazmanı ne .
+senden yere bir doğru ne kalktım ?
+o bana bir içinde yine için
+ben bu penceredeki .
+can ... değil
+yalnız bir .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:43:15.349494 (2500)
+--------------------------------------------------
+Loss: 3.629283
+artık bu . ali
+sana ... fakat bile
+başka bir ya . .. ..
+bana de gün yoktu .
+bundan bir .
+; almanca da
+bütün dedi .
+... diye nasıl
+bütün şey ama ...
+ve sabahleyin .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:44:35.401846 (3000)
+--------------------------------------------------
+Loss: 3.641175
+o ben o
+biraz her musun
+o dedi .
+ne birtanecik !
+o dedi .
+doğru münasebet .
+ne iş sesi ?
+gelen dedi .
+bir zamanki gibi yürüdük .
+yapılmış biraz dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:45:57.592043 (3500)
+--------------------------------------------------
+Loss: 3.626566
+kalkıp çalmaya vardı
+bir üzüntülü : !
+filiz’in şey değil ...
+cevap bir yüzü :
+sevgili bana !
+dönüp bir ağlamaya
+söyledi ... bir sıkıldım mi ?
+gece buyurun ... dedi . ..
+tekrar edebiyatımız ali
+bana dedi .
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
+
+
+2017-05-09T02:47:20.297328 (4000)
+--------------------------------------------------
+Loss: 3.650029
+kadar dedi .
+bu alır duruyorsun da kaymak yüz
+hayret da tarafından gibi hafif
+dün beni baktım .
+diye bağırdı .
+sabahleyin ben gibi !
+ben dedi .
+bu sefer ?
+kadar gibi gibi
+yarattığı lüzumsuz bir gittik
+
+
+Saved model parameters to TR-GRU-2017-05-08-17-23-2000-48-120.dat.
